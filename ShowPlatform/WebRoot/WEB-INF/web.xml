@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="3.0" 
+	xmlns="http://java.sun.com/xml/ns/javaee" 
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xsi:schemaLocation="http://java.sun.com/xml/ns/javaee 
+	http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd">
+  <display-name></display-name>
+
+ 
+  <filter> 
+  	<filter-name>EncodingFilter</filter-name>
+  	<filter-class>Filter.EncodingFilter</filter-class>
+  	<init-param>
+  		<param-name>encoding</param-name>
+  		<param-value>utf-8</param-value>
+  	</init-param>
+  </filter>    
+  
+  <filter> 
+  	<filter-name>MemberCheckFilter</filter-name>
+  	<filter-class>Filter.MemberCheckFilter</filter-class>
+  	<init-param> 
+  		<param-name>url</param-name>
+  		<param-value>/HomePage/Index.jsp</param-value>
+  	</init-param>
+  </filter>
+  
+   <filter> 
+  	<filter-name>AdminCheckFilter</filter-name>
+  	<filter-class>Filter.AdminCheckFilter</filter-class>
+  	<init-param> 
+  		<param-name>url</param-name>
+  		<param-value>/BackGround/Login.jsp</param-value>
+  	</init-param>
+  </filter>
+  
+
+
+  <servlet>
+    <servlet-name>LoginServlet</servlet-name>
+    <servlet-class>Servlet.LoginServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>AccessContestServlet</servlet-name>
+    <servlet-class>Servlet.Admin.AccessContestServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>AccessMemberServlet</servlet-name>
+    <servlet-class>Servlet.Admin.AccessMemberServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>AccessWorksServlet</servlet-name>
+    <servlet-class>Servlet.Admin.AccessWorksServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>addAdminServlet</servlet-name>
+    <servlet-class>Servlet.Admin.addAdminServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>addNewsServlet</servlet-name>
+    <servlet-class>Servlet.Admin.addNewsServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>ChangeContestStatusServlet</servlet-name>
+    <servlet-class>Servlet.Admin.ChangeContestStatusServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>DeleteAdminServlet</servlet-name>
+    <servlet-class>Servlet.Admin.DeleteAdminServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>DeleteNewsServlet</servlet-name>
+    <servlet-class>Servlet.Admin.DeleteNewsServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>EditAdminServlet</servlet-name>
+    <servlet-class>Servlet.Admin.EditAdminServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>EditNewsServlet</servlet-name>
+    <servlet-class>Servlet.Admin.EditNewsServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>ApplyAccessHostContestServlet</servlet-name>
+    <servlet-class>Servlet.Member.ApplyAccessHostContestServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>ApplyAccessUploadServlet</servlet-name>
+    <servlet-class>Servlet.Member.ApplyAccessUploadServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>DoCommentServlet</servlet-name>
+    <servlet-class>Servlet.Member.DoCommentServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>DoScoreServlet</servlet-name>
+    <servlet-class>Servlet.Member.DoScoreServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>EditInfoServlet</servlet-name>
+    <servlet-class>Servlet.Member.EditInfoServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>PostContestServlet</servlet-name>
+    <servlet-class>Servlet.Member.PostContestServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>PostWorksServlet</servlet-name>
+    <servlet-class>Servlet.Member.PostWorksServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>RegisterServlet</servlet-name>
+    <servlet-class>Servlet.RegisterServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>EditPwdServlet</servlet-name>
+    <servlet-class>Servlet.Member.EditPwdServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>EditContestPwdServlet</servlet-name>
+    <servlet-class>Servlet.Member.EditContestPwdServlet</servlet-class>
+  </servlet>
+  
+    <servlet>    
+   <servlet-name>AcceptContest</servlet-name>
+    <servlet-class>Servlet.Admin.AcceptContest</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>RefuseContest</servlet-name>
+    <servlet-class>Servlet.Admin.RefuseContest</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>StartContest</servlet-name>
+    <servlet-class>Servlet.Admin.StartContest</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>StartScore</servlet-name>
+    <servlet-class>Servlet.Admin.StartScore</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>ScoringContest</servlet-name>
+    <servlet-class>ScoringContest</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>FinishContest</servlet-name>
+    <servlet-class>Servlet.Admin.FinishContest</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>AcceptWorks</servlet-name>
+    <servlet-class>Servlet.Admin.AcceptWorks</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>AcceptMember</servlet-name>
+    <servlet-class>Servlet.Admin.AcceptMember</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>RefuseMember</servlet-name>
+    <servlet-class>Servlet.Admin.RefuseMember</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>AcceptHost</servlet-name>
+    <servlet-class>Servlet.Admin.AcceptHost</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>RefuseHost</servlet-name>
+    <servlet-class>Servlet.Admin.RefuseHost</servlet-class>
+  </servlet>
+
+    
+  	<!-- 过滤所有的文件 -->
+  	
+  <filter-mapping>
+  	<filter-name>EncodingFilter</filter-name>
+  	<url-pattern>/*</url-pattern>
+  </filter-mapping>
+  
+  <filter-mapping>
+  	<filter-name>MemberCheckFilter</filter-name>
+  	<url-pattern>/servlet/Member1/*</url-pattern>
+  </filter-mapping>
+  
+  <filter-mapping>
+  	<filter-name>AdminCheckFilter</filter-name>
+  	<url-pattern>/servlet/Admin1/*</url-pattern>
+  </filter-mapping>
+
+<!--  servlet mapping -->
+
+  <servlet-mapping>
+    <servlet-name>LoginServlet</servlet-name>
+    <url-pattern>/servlet/LoginServlet</url-pattern>
+  </servlet-mapping>
+    <servlet-mapping>
+    <servlet-name>RegisterServlet</servlet-name>
+    <url-pattern>/servlet/RegisterServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>AccessContestServlet</servlet-name>
+    <url-pattern>/servlet/Admin/AccessContestServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>AccessMemberServlet</servlet-name>
+    <url-pattern>/servlet/Admin/AccessMemberServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>AccessWorksServlet</servlet-name>
+    <url-pattern>/servlet/Admin/AccessWorksServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>addAdminServlet</servlet-name>
+    <url-pattern>/servlet/Admin/addAdminServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>addNewsServlet</servlet-name>
+    <url-pattern>/servlet/Admin/addNewsServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>ChangeContestStatusServlet</servlet-name>
+    <url-pattern>/servlet/Admin/ChangeContestStatusServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>DeleteAdminServlet</servlet-name>
+    <url-pattern>/servlet/Admin/DeleteAdminServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>DeleteNewsServlet</servlet-name>
+    <url-pattern>/servlet/Admin/DeleteNewsServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>EditAdminServlet</servlet-name>
+    <url-pattern>/servlet/Admin/EditAdminServlet</url-pattern>
+  </servlet-mapping>    
+  <servlet-mapping>
+    <servlet-name>EditNewsServlet</servlet-name>
+    <url-pattern>/servlet/Admin/EditNewsServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>ApplyAccessHostContestServlet</servlet-name>
+    <url-pattern>/servlet/Member/ApplyAccessHostContestServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>ApplyAccessUploadServlet</servlet-name>
+    <url-pattern>/servlet/Member/ApplyAccessUploadServlet</url-pattern>
+  </servlet-mapping>     
+  <servlet-mapping>
+    <servlet-name>DoCommentServlet</servlet-name>
+    <url-pattern>/servlet/Member/DoCommentServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>DoScoreServlet</servlet-name>
+    <url-pattern>/servlet/Member/DoScoreServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>EditInfoServlet</servlet-name>
+    <url-pattern>/servlet/Member/EditInfoServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>PostContestServlet</servlet-name>
+    <url-pattern>/servlet/Member/PostContestServlet</url-pattern> 
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>PostWorksServlet</servlet-name>
+    <url-pattern>/servlet/Member/PostWorksServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>EditPwdServlet</servlet-name>
+    <url-pattern>/servlet/Member/EditPwdServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>EditContestPwdServlet</servlet-name>
+    <url-pattern>/servlet/Member/EditContestPwdServlet</url-pattern>
+  </servlet-mapping>
+   <servlet-mapping>
+   
+   <servlet-name>AcceptContest</servlet-name>
+    <url-pattern>/servlet/AcceptContest</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>RefuseContest</servlet-name>
+    <url-pattern>/servlet/RefuseContest</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>StartContest</servlet-name>
+    <url-pattern>/servlet/StartContest</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>StartScore</servlet-name>
+    <url-pattern>/servlet/StartScore</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>ScoringContest</servlet-name>
+    <url-pattern>/servlet/ScoringContest</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>FinishContest</servlet-name>
+    <url-pattern>/servlet/FinishContest</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>AcceptWorks</servlet-name>
+    <url-pattern>/servlet/AcceptWorks</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>AcceptMember</servlet-name>
+    <url-pattern>/servlet/AcceptMember</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>RefuseMember</servlet-name>
+    <url-pattern>/servlet/RefuseMember</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>AcceptHost</servlet-name>
+    <url-pattern>/servlet/AcceptHost</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>RefuseHost</servlet-name>
+    <url-pattern>/servlet/RefuseHost</url-pattern>
+  </servlet-mapping>
+  
+  <!-- HomePage/Index.jsp -->
+  <welcome-file-list> 
+    <welcome-file>HomePage/Index.jsp</welcome-file>
+  </welcome-file-list>
+  
+</web-app>

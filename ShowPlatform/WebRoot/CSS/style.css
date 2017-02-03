@@ -1,0 +1,15 @@
+@charset "gb2312";
+/* CSS Document */
+
+body {
+	color: #000;
+	background-color: #EEF2FB;
+	margin: 0px;
+}
+#layout
+{
+	float:left;
+	margin-left:10px;
+	margin-top:10px;
+}
+

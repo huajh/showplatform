@@ -1,0 +1,1522 @@
+Mon Oct 31 21:24:35 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Mon Oct 31 21:24:35 CST 2011: 成功创建连接池access
+Mon Oct 31 21:24:36 CST 2011: 连接池access创建一个新的连接
+Mon Oct 31 21:24:36 CST 2011: 关闭连接池access中的一个连接
+Mon Oct 31 21:24:36 CST 2011: 撤销JDBC驱动程序 net.sourceforge.jtds.jdbc.Driver的注册
+Mon Oct 31 23:29:06 CST 2011: 连接池access创建一个新的连接
+Mon Oct 31 23:30:39 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Mon Oct 31 23:30:39 CST 2011: 成功创建连接池access
+Mon Oct 31 23:30:40 CST 2011: 连接池access创建一个新的连接
+Mon Oct 31 23:41:01 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Mon Oct 31 23:41:01 CST 2011: 成功创建连接池access
+Mon Oct 31 23:41:01 CST 2011: 连接池access创建一个新的连接
+Tue Nov 01 15:21:45 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Tue Nov 01 15:21:46 CST 2011: 成功创建连接池access
+Tue Nov 01 15:21:50 CST 2011: 连接池access创建一个新的连接
+Tue Nov 01 15:27:06 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Tue Nov 01 15:27:06 CST 2011: 成功创建连接池access
+Tue Nov 01 15:27:07 CST 2011: 连接池access创建一个新的连接
+Tue Nov 01 15:27:54 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Tue Nov 01 15:27:54 CST 2011: 成功创建连接池access
+Tue Nov 01 15:27:54 CST 2011: 连接池access创建一个新的连接
+Tue Nov 01 15:34:07 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Tue Nov 01 15:34:07 CST 2011: 成功创建连接池access
+Tue Nov 01 15:34:07 CST 2011: 连接池access创建一个新的连接
+Tue Nov 01 15:35:24 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Tue Nov 01 15:35:24 CST 2011: 成功创建连接池access
+Tue Nov 01 15:35:25 CST 2011: 连接池access创建一个新的连接
+Tue Nov 01 23:12:07 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Tue Nov 01 23:12:07 CST 2011: 成功创建连接池access
+Tue Nov 01 23:12:11 CST 2011: 连接池access创建一个新的连接
+Wed Nov 02 00:27:29 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Wed Nov 02 00:27:29 CST 2011: 成功创建连接池access
+Wed Nov 02 00:27:30 CST 2011: 连接池access创建一个新的连接
+Wed Nov 02 00:30:32 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Wed Nov 02 00:30:32 CST 2011: 成功创建连接池access
+Wed Nov 02 00:30:33 CST 2011: 连接池access创建一个新的连接
+Wed Nov 02 00:31:37 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Wed Nov 02 00:31:37 CST 2011: 成功创建连接池access
+Wed Nov 02 00:31:37 CST 2011: 连接池access创建一个新的连接
+Wed Nov 02 00:32:58 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Wed Nov 02 00:32:58 CST 2011: 成功创建连接池access
+Wed Nov 02 00:32:59 CST 2011: 连接池access创建一个新的连接
+Wed Nov 02 00:33:08 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Wed Nov 02 00:33:08 CST 2011: 成功创建连接池access
+Wed Nov 02 00:33:09 CST 2011: 连接池access创建一个新的连接
+Wed Nov 02 00:33:20 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Wed Nov 02 00:33:20 CST 2011: 成功创建连接池access
+Wed Nov 02 00:33:20 CST 2011: 连接池access创建一个新的连接
+Wed Nov 02 00:34:07 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Wed Nov 02 00:34:07 CST 2011: 成功创建连接池access
+Wed Nov 02 00:34:07 CST 2011: 连接池access创建一个新的连接
+Wed Nov 02 00:34:21 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Wed Nov 02 00:34:21 CST 2011: 成功创建连接池access
+Wed Nov 02 00:34:21 CST 2011: 连接池access创建一个新的连接
+Wed Nov 02 00:35:12 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Wed Nov 02 00:35:12 CST 2011: 成功创建连接池access
+Wed Nov 02 00:35:13 CST 2011: 连接池access创建一个新的连接
+Wed Nov 02 00:36:45 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Wed Nov 02 00:36:45 CST 2011: 成功创建连接池access
+Wed Nov 02 00:36:45 CST 2011: 连接池access创建一个新的连接
+Wed Nov 02 00:37:17 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Wed Nov 02 00:37:17 CST 2011: 成功创建连接池access
+Wed Nov 02 00:37:17 CST 2011: 连接池access创建一个新的连接
+Wed Nov 02 00:38:00 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Wed Nov 02 00:38:00 CST 2011: 成功创建连接池access
+Wed Nov 02 00:38:00 CST 2011: 连接池access创建一个新的连接
+Wed Nov 02 00:38:51 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Wed Nov 02 00:38:51 CST 2011: 成功创建连接池access
+Wed Nov 02 00:38:51 CST 2011: 连接池access创建一个新的连接
+Wed Nov 02 00:42:10 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Wed Nov 02 00:42:10 CST 2011: 成功创建连接池access
+Wed Nov 02 00:42:10 CST 2011: 连接池access创建一个新的连接
+Wed Nov 02 00:54:02 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Wed Nov 02 00:54:02 CST 2011: 成功创建连接池access
+Wed Nov 02 00:54:02 CST 2011: 连接池access创建一个新的连接
+Wed Nov 02 00:54:58 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Wed Nov 02 00:54:58 CST 2011: 成功创建连接池access
+Wed Nov 02 00:54:58 CST 2011: 连接池access创建一个新的连接
+Wed Nov 02 00:55:13 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Wed Nov 02 00:55:13 CST 2011: 成功创建连接池access
+Wed Nov 02 00:55:14 CST 2011: 连接池access创建一个新的连接
+Wed Nov 02 00:55:57 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Wed Nov 02 00:55:57 CST 2011: 成功创建连接池access
+Wed Nov 02 00:55:57 CST 2011: 连接池access创建一个新的连接
+Wed Nov 02 00:57:10 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Wed Nov 02 00:57:10 CST 2011: 成功创建连接池access
+Wed Nov 02 00:57:10 CST 2011: 连接池access创建一个新的连接
+Wed Nov 02 00:57:59 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Wed Nov 02 00:57:59 CST 2011: 成功创建连接池access
+Wed Nov 02 00:57:59 CST 2011: 连接池access创建一个新的连接
+Wed Nov 02 00:58:17 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Wed Nov 02 00:58:18 CST 2011: 成功创建连接池access
+Wed Nov 02 00:58:18 CST 2011: 连接池access创建一个新的连接
+Wed Nov 02 00:59:16 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Wed Nov 02 00:59:16 CST 2011: 成功创建连接池access
+Wed Nov 02 00:59:16 CST 2011: 连接池access创建一个新的连接
+Wed Nov 02 01:00:20 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Wed Nov 02 01:00:21 CST 2011: 成功创建连接池access
+Wed Nov 02 01:00:21 CST 2011: 连接池access创建一个新的连接
+Wed Nov 02 01:01:06 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Wed Nov 02 01:01:06 CST 2011: 成功创建连接池access
+Wed Nov 02 01:01:06 CST 2011: 连接池access创建一个新的连接
+Wed Nov 02 01:01:37 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Wed Nov 02 01:01:37 CST 2011: 成功创建连接池access
+Wed Nov 02 01:01:38 CST 2011: 连接池access创建一个新的连接
+Wed Nov 02 01:02:58 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Wed Nov 02 01:02:58 CST 2011: 成功创建连接池access
+Wed Nov 02 01:02:58 CST 2011: 连接池access创建一个新的连接
+Wed Nov 02 01:04:31 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Wed Nov 02 01:04:31 CST 2011: 成功创建连接池access
+Wed Nov 02 01:04:31 CST 2011: 连接池access创建一个新的连接
+Wed Nov 02 01:04:58 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Wed Nov 02 01:04:58 CST 2011: 成功创建连接池access
+Wed Nov 02 01:04:58 CST 2011: 连接池access创建一个新的连接
+Wed Nov 02 01:06:03 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Wed Nov 02 01:06:03 CST 2011: 成功创建连接池access
+Wed Nov 02 01:06:03 CST 2011: 连接池access创建一个新的连接
+Wed Nov 02 01:06:50 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Wed Nov 02 01:06:50 CST 2011: 成功创建连接池access
+Wed Nov 02 01:06:50 CST 2011: 连接池access创建一个新的连接
+Wed Nov 02 01:07:31 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Wed Nov 02 01:07:31 CST 2011: 成功创建连接池access
+Wed Nov 02 01:07:31 CST 2011: 连接池access创建一个新的连接
+Wed Nov 02 01:07:59 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Wed Nov 02 01:07:59 CST 2011: 成功创建连接池access
+Wed Nov 02 01:07:59 CST 2011: 连接池access创建一个新的连接
+Wed Nov 02 01:08:54 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Wed Nov 02 01:08:54 CST 2011: 成功创建连接池access
+Wed Nov 02 01:08:55 CST 2011: 连接池access创建一个新的连接
+Wed Nov 02 01:10:10 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Wed Nov 02 01:10:10 CST 2011: 成功创建连接池access
+Wed Nov 02 01:10:10 CST 2011: 连接池access创建一个新的连接
+Wed Nov 02 01:11:24 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Wed Nov 02 01:11:24 CST 2011: 成功创建连接池access
+Wed Nov 02 01:11:24 CST 2011: 连接池access创建一个新的连接
+Wed Nov 02 01:13:11 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Wed Nov 02 01:13:11 CST 2011: 成功创建连接池access
+Wed Nov 02 01:13:12 CST 2011: 连接池access创建一个新的连接
+Wed Nov 02 01:13:42 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Wed Nov 02 01:13:42 CST 2011: 成功创建连接池access
+Wed Nov 02 01:13:43 CST 2011: 连接池access创建一个新的连接
+Wed Nov 02 01:14:30 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Wed Nov 02 01:14:30 CST 2011: 成功创建连接池access
+Wed Nov 02 01:14:30 CST 2011: 连接池access创建一个新的连接
+Wed Nov 02 01:15:36 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Wed Nov 02 01:15:36 CST 2011: 成功创建连接池access
+Wed Nov 02 01:15:36 CST 2011: 连接池access创建一个新的连接
+Wed Nov 02 01:16:18 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Wed Nov 02 01:16:18 CST 2011: 成功创建连接池access
+Wed Nov 02 01:16:18 CST 2011: 连接池access创建一个新的连接
+Wed Nov 02 01:17:02 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Wed Nov 02 01:17:02 CST 2011: 成功创建连接池access
+Wed Nov 02 01:17:02 CST 2011: 连接池access创建一个新的连接
+Wed Nov 02 01:18:12 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Wed Nov 02 01:18:12 CST 2011: 成功创建连接池access
+Wed Nov 02 01:18:12 CST 2011: 连接池access创建一个新的连接
+Wed Nov 02 01:22:30 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Wed Nov 02 01:22:30 CST 2011: 成功创建连接池access
+Wed Nov 02 01:22:30 CST 2011: 连接池access创建一个新的连接
+Wed Nov 02 01:23:38 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Wed Nov 02 01:23:38 CST 2011: 成功创建连接池access
+Wed Nov 02 01:23:38 CST 2011: 连接池access创建一个新的连接
+Sat Nov 19 22:11:07 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sat Nov 19 22:11:07 CST 2011: 成功创建连接池access
+Sat Nov 19 22:11:09 CST 2011: 无法创建下列URL的连接: jdbc:jtds:sqlserver://127.0.0.1:1433;DatabaseName=Works_ContestData;
+java.sql.SQLException: 无法打开登录所请求的数据库 "Works_ContestData"。登录失败。
+	at net.sourceforge.jtds.jdbc.SQLDiagnostic.addDiagnostic(SQLDiagnostic.java:368)
+	at net.sourceforge.jtds.jdbc.TdsCore.tdsErrorToken(TdsCore.java:2820)
+	at net.sourceforge.jtds.jdbc.TdsCore.nextToken(TdsCore.java:2258)
+	at net.sourceforge.jtds.jdbc.TdsCore.login(TdsCore.java:603)
+	at net.sourceforge.jtds.jdbc.ConnectionJDBC2.<init>(ConnectionJDBC2.java:345)
+	at net.sourceforge.jtds.jdbc.ConnectionJDBC3.<init>(ConnectionJDBC3.java:50)
+	at net.sourceforge.jtds.jdbc.Driver.connect(Driver.java:184)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at Connection.DBConnectionManager$DBConnectionPool.NewConnection(DBConnectionManager.java:386)
+	at Connection.DBConnectionManager$DBConnectionPool.getConnection(DBConnectionManager.java:308)
+	at Connection.DBConnectionManager.getConnection(DBConnectionManager.java:71)
+	at DBOperator.DBOperator.ExecuteQuery(DBOperator.java:78)
+	at DBOperator.DBOperator.checkLogin(DBOperator.java:250)
+	at JavaBeans.People.Guest.Login(Guest.java:54)
+	at Servlet.HomePage.LoginServlet.doPost(LoginServlet.java:37)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:710)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:803)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:230)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:175)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:128)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:104)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:261)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:844)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:581)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:447)
+	at java.lang.Thread.run(Unknown Source)
+Sat Nov 19 22:12:22 CST 2011: 无法创建下列URL的连接: jdbc:jtds:sqlserver://127.0.0.1:1433;DatabaseName=Works_ContestData;
+java.sql.SQLException: 无法打开登录所请求的数据库 "Works_ContestData"。登录失败。
+	at net.sourceforge.jtds.jdbc.SQLDiagnostic.addDiagnostic(SQLDiagnostic.java:368)
+	at net.sourceforge.jtds.jdbc.TdsCore.tdsErrorToken(TdsCore.java:2820)
+	at net.sourceforge.jtds.jdbc.TdsCore.nextToken(TdsCore.java:2258)
+	at net.sourceforge.jtds.jdbc.TdsCore.login(TdsCore.java:603)
+	at net.sourceforge.jtds.jdbc.ConnectionJDBC2.<init>(ConnectionJDBC2.java:345)
+	at net.sourceforge.jtds.jdbc.ConnectionJDBC3.<init>(ConnectionJDBC3.java:50)
+	at net.sourceforge.jtds.jdbc.Driver.connect(Driver.java:184)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at Connection.DBConnectionManager$DBConnectionPool.NewConnection(DBConnectionManager.java:386)
+	at Connection.DBConnectionManager$DBConnectionPool.getConnection(DBConnectionManager.java:308)
+	at Connection.DBConnectionManager.getConnection(DBConnectionManager.java:71)
+	at DBOperator.DBOperator.ExecuteQuery(DBOperator.java:78)
+	at DBOperator.DBOperator.checkLogin(DBOperator.java:250)
+	at JavaBeans.People.Guest.Login(Guest.java:54)
+	at Servlet.HomePage.LoginServlet.doPost(LoginServlet.java:42)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:710)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:803)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:230)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:175)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:128)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:104)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:261)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:844)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:581)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:447)
+	at java.lang.Thread.run(Unknown Source)
+Sat Nov 19 22:13:04 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sat Nov 19 22:13:04 CST 2011: 成功创建连接池access
+Sat Nov 19 22:13:04 CST 2011: 无法创建下列URL的连接: jdbc:jtds:sqlserver://127.0.0.1:1433;DatabaseName=Works_ContestData;
+java.sql.SQLException: 无法打开登录所请求的数据库 "Works_ContestData"。登录失败。
+	at net.sourceforge.jtds.jdbc.SQLDiagnostic.addDiagnostic(SQLDiagnostic.java:368)
+	at net.sourceforge.jtds.jdbc.TdsCore.tdsErrorToken(TdsCore.java:2820)
+	at net.sourceforge.jtds.jdbc.TdsCore.nextToken(TdsCore.java:2258)
+	at net.sourceforge.jtds.jdbc.TdsCore.login(TdsCore.java:603)
+	at net.sourceforge.jtds.jdbc.ConnectionJDBC2.<init>(ConnectionJDBC2.java:345)
+	at net.sourceforge.jtds.jdbc.ConnectionJDBC3.<init>(ConnectionJDBC3.java:50)
+	at net.sourceforge.jtds.jdbc.Driver.connect(Driver.java:184)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at Connection.DBConnectionManager$DBConnectionPool.NewConnection(DBConnectionManager.java:386)
+	at Connection.DBConnectionManager$DBConnectionPool.getConnection(DBConnectionManager.java:308)
+	at Connection.DBConnectionManager.getConnection(DBConnectionManager.java:71)
+	at DBOperator.DBOperator.ExecuteQuery(DBOperator.java:78)
+	at DBOperator.DBOperator.checkLogin(DBOperator.java:250)
+	at JavaBeans.People.Guest.Login(Guest.java:54)
+	at Servlet.HomePage.LoginServlet.doPost(LoginServlet.java:42)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:710)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:803)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:230)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:175)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:128)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:104)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:261)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:844)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:581)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:447)
+	at java.lang.Thread.run(Unknown Source)
+Sat Nov 19 22:16:15 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sat Nov 19 22:16:15 CST 2011: 成功创建连接池access
+Sat Nov 19 22:16:15 CST 2011: 无法创建下列URL的连接: jdbc:jtds:sqlserver://127.0.0.1:1433;DatabaseName=Works_ContestData;
+java.sql.SQLException: 无法打开登录所请求的数据库 "Works_ContestData"。登录失败。
+	at net.sourceforge.jtds.jdbc.SQLDiagnostic.addDiagnostic(SQLDiagnostic.java:368)
+	at net.sourceforge.jtds.jdbc.TdsCore.tdsErrorToken(TdsCore.java:2820)
+	at net.sourceforge.jtds.jdbc.TdsCore.nextToken(TdsCore.java:2258)
+	at net.sourceforge.jtds.jdbc.TdsCore.login(TdsCore.java:603)
+	at net.sourceforge.jtds.jdbc.ConnectionJDBC2.<init>(ConnectionJDBC2.java:345)
+	at net.sourceforge.jtds.jdbc.ConnectionJDBC3.<init>(ConnectionJDBC3.java:50)
+	at net.sourceforge.jtds.jdbc.Driver.connect(Driver.java:184)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at Connection.DBConnectionManager$DBConnectionPool.NewConnection(DBConnectionManager.java:386)
+	at Connection.DBConnectionManager$DBConnectionPool.getConnection(DBConnectionManager.java:308)
+	at Connection.DBConnectionManager.getConnection(DBConnectionManager.java:71)
+	at DBOperator.DBOperator.ExecuteQuery(DBOperator.java:78)
+	at DBOperator.DBOperator.checkLogin(DBOperator.java:250)
+	at JavaBeans.People.Guest.Login(Guest.java:54)
+	at Servlet.HomePage.LoginServlet.doPost(LoginServlet.java:42)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:710)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:803)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:230)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:175)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:128)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:104)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:261)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:844)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:581)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:447)
+	at java.lang.Thread.run(Unknown Source)
+Sat Nov 19 22:20:36 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sat Nov 19 22:20:36 CST 2011: 成功创建连接池access
+Sat Nov 19 22:20:37 CST 2011: 无法创建下列URL的连接: jdbc:jtds:sqlserver://127.0.0.1:1433;DatabaseName=Works_ContestData;
+java.sql.SQLException: 无法打开登录所请求的数据库 "Works_ContestData"。登录失败。
+	at net.sourceforge.jtds.jdbc.SQLDiagnostic.addDiagnostic(SQLDiagnostic.java:368)
+	at net.sourceforge.jtds.jdbc.TdsCore.tdsErrorToken(TdsCore.java:2820)
+	at net.sourceforge.jtds.jdbc.TdsCore.nextToken(TdsCore.java:2258)
+	at net.sourceforge.jtds.jdbc.TdsCore.login(TdsCore.java:603)
+	at net.sourceforge.jtds.jdbc.ConnectionJDBC2.<init>(ConnectionJDBC2.java:345)
+	at net.sourceforge.jtds.jdbc.ConnectionJDBC3.<init>(ConnectionJDBC3.java:50)
+	at net.sourceforge.jtds.jdbc.Driver.connect(Driver.java:184)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at Connection.DBConnectionManager$DBConnectionPool.NewConnection(DBConnectionManager.java:386)
+	at Connection.DBConnectionManager$DBConnectionPool.getConnection(DBConnectionManager.java:308)
+	at Connection.DBConnectionManager.getConnection(DBConnectionManager.java:71)
+	at DBOperator.DBOperator.ExecuteQuery(DBOperator.java:78)
+	at DBOperator.DBOperator.checkLogin(DBOperator.java:254)
+	at JavaBeans.People.Guest.Login(Guest.java:54)
+	at Servlet.HomePage.LoginServlet.doPost(LoginServlet.java:42)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:710)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:803)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:230)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:175)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:128)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:104)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:261)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:844)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:581)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:447)
+	at java.lang.Thread.run(Unknown Source)
+Sat Nov 19 22:21:58 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sat Nov 19 22:21:58 CST 2011: 成功创建连接池access
+Sat Nov 19 22:21:59 CST 2011: 无法创建下列URL的连接: jdbc:jtds:sqlserver://127.0.0.1:1433;DatabaseName=Works_ContestData;
+java.sql.SQLException: 无法打开登录所请求的数据库 "Works_ContestData"。登录失败。
+	at net.sourceforge.jtds.jdbc.SQLDiagnostic.addDiagnostic(SQLDiagnostic.java:368)
+	at net.sourceforge.jtds.jdbc.TdsCore.tdsErrorToken(TdsCore.java:2820)
+	at net.sourceforge.jtds.jdbc.TdsCore.nextToken(TdsCore.java:2258)
+	at net.sourceforge.jtds.jdbc.TdsCore.login(TdsCore.java:603)
+	at net.sourceforge.jtds.jdbc.ConnectionJDBC2.<init>(ConnectionJDBC2.java:345)
+	at net.sourceforge.jtds.jdbc.ConnectionJDBC3.<init>(ConnectionJDBC3.java:50)
+	at net.sourceforge.jtds.jdbc.Driver.connect(Driver.java:184)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at Connection.DBConnectionManager$DBConnectionPool.NewConnection(DBConnectionManager.java:386)
+	at Connection.DBConnectionManager$DBConnectionPool.getConnection(DBConnectionManager.java:308)
+	at Connection.DBConnectionManager.getConnection(DBConnectionManager.java:71)
+	at DBOperator.DBOperator.ExecuteQuery(DBOperator.java:78)
+	at DBOperator.DBOperator.checkLogin(DBOperator.java:261)
+	at JavaBeans.People.Guest.Login(Guest.java:54)
+	at Servlet.HomePage.LoginServlet.doPost(LoginServlet.java:42)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:710)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:803)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:230)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:175)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:128)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:104)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:261)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:844)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:581)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:447)
+	at java.lang.Thread.run(Unknown Source)
+Sat Nov 19 22:23:02 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sat Nov 19 22:23:02 CST 2011: 成功创建连接池access
+Sat Nov 19 22:23:02 CST 2011: 无法创建下列URL的连接: jdbc:jtds:sqlserver://127.0.0.1:1433;DatabaseName=Works_ContestData;
+java.sql.SQLException: 无法打开登录所请求的数据库 "Works_ContestData"。登录失败。
+	at net.sourceforge.jtds.jdbc.SQLDiagnostic.addDiagnostic(SQLDiagnostic.java:368)
+	at net.sourceforge.jtds.jdbc.TdsCore.tdsErrorToken(TdsCore.java:2820)
+	at net.sourceforge.jtds.jdbc.TdsCore.nextToken(TdsCore.java:2258)
+	at net.sourceforge.jtds.jdbc.TdsCore.login(TdsCore.java:603)
+	at net.sourceforge.jtds.jdbc.ConnectionJDBC2.<init>(ConnectionJDBC2.java:345)
+	at net.sourceforge.jtds.jdbc.ConnectionJDBC3.<init>(ConnectionJDBC3.java:50)
+	at net.sourceforge.jtds.jdbc.Driver.connect(Driver.java:184)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at Connection.DBConnectionManager$DBConnectionPool.NewConnection(DBConnectionManager.java:386)
+	at Connection.DBConnectionManager$DBConnectionPool.getConnection(DBConnectionManager.java:308)
+	at Connection.DBConnectionManager.getConnection(DBConnectionManager.java:71)
+	at DBOperator.DBOperator.ExecuteQuery(DBOperator.java:78)
+	at DBOperator.DBOperator.checkLogin(DBOperator.java:261)
+	at JavaBeans.People.Guest.Login(Guest.java:54)
+	at Servlet.HomePage.LoginServlet.doPost(LoginServlet.java:42)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:710)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:803)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:230)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:175)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:128)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:104)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:261)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:844)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:581)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:447)
+	at java.lang.Thread.run(Unknown Source)
+Sat Nov 19 22:24:40 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sat Nov 19 22:24:40 CST 2011: 成功创建连接池access
+Sat Nov 19 22:24:41 CST 2011: 无法创建下列URL的连接: jdbc:jtds:sqlserver://127.0.0.1:1433;DatabaseName=Works_ContestData;
+java.sql.SQLException: 无法打开登录所请求的数据库 "Works_ContestData"。登录失败。
+	at net.sourceforge.jtds.jdbc.SQLDiagnostic.addDiagnostic(SQLDiagnostic.java:368)
+	at net.sourceforge.jtds.jdbc.TdsCore.tdsErrorToken(TdsCore.java:2820)
+	at net.sourceforge.jtds.jdbc.TdsCore.nextToken(TdsCore.java:2258)
+	at net.sourceforge.jtds.jdbc.TdsCore.login(TdsCore.java:603)
+	at net.sourceforge.jtds.jdbc.ConnectionJDBC2.<init>(ConnectionJDBC2.java:345)
+	at net.sourceforge.jtds.jdbc.ConnectionJDBC3.<init>(ConnectionJDBC3.java:50)
+	at net.sourceforge.jtds.jdbc.Driver.connect(Driver.java:184)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at Connection.DBConnectionManager$DBConnectionPool.NewConnection(DBConnectionManager.java:386)
+	at Connection.DBConnectionManager$DBConnectionPool.getConnection(DBConnectionManager.java:308)
+	at Connection.DBConnectionManager.getConnection(DBConnectionManager.java:71)
+	at DBOperator.DBOperator.ExecuteQuery(DBOperator.java:78)
+	at DBOperator.DBOperator.checkLogin(DBOperator.java:261)
+	at JavaBeans.People.Guest.Login(Guest.java:54)
+	at Servlet.HomePage.LoginServlet.doPost(LoginServlet.java:42)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:710)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:803)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:230)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:175)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:128)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:104)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:261)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:844)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:581)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:447)
+	at java.lang.Thread.run(Unknown Source)
+Sat Nov 19 22:24:43 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sat Nov 19 22:24:43 CST 2011: 成功创建连接池access
+Sat Nov 19 22:24:44 CST 2011: 无法创建下列URL的连接: jdbc:jtds:sqlserver://127.0.0.1:1433;DatabaseName=Works_ContestData;
+java.sql.SQLException: 无法打开登录所请求的数据库 "Works_ContestData"。登录失败。
+	at net.sourceforge.jtds.jdbc.SQLDiagnostic.addDiagnostic(SQLDiagnostic.java:368)
+	at net.sourceforge.jtds.jdbc.TdsCore.tdsErrorToken(TdsCore.java:2820)
+	at net.sourceforge.jtds.jdbc.TdsCore.nextToken(TdsCore.java:2258)
+	at net.sourceforge.jtds.jdbc.TdsCore.login(TdsCore.java:603)
+	at net.sourceforge.jtds.jdbc.ConnectionJDBC2.<init>(ConnectionJDBC2.java:345)
+	at net.sourceforge.jtds.jdbc.ConnectionJDBC3.<init>(ConnectionJDBC3.java:50)
+	at net.sourceforge.jtds.jdbc.Driver.connect(Driver.java:184)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at java.sql.DriverManager.getConnection(Unknown Source)
+	at Connection.DBConnectionManager$DBConnectionPool.NewConnection(DBConnectionManager.java:386)
+	at Connection.DBConnectionManager$DBConnectionPool.getConnection(DBConnectionManager.java:308)
+	at Connection.DBConnectionManager.getConnection(DBConnectionManager.java:71)
+	at DBOperator.DBOperator.ExecuteQuery(DBOperator.java:78)
+	at DBOperator.DBOperator.checkLogin(DBOperator.java:261)
+	at JavaBeans.People.Guest.Login(Guest.java:54)
+	at Servlet.HomePage.LoginServlet.doPost(LoginServlet.java:43)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:710)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:803)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:230)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:175)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:128)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:104)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:261)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:844)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:581)
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:447)
+	at java.lang.Thread.run(Unknown Source)
+Sat Nov 19 22:28:40 CST 2011: 连接池access创建一个新的连接
+Sat Nov 19 22:30:32 CST 2011: 从连接池access删除一个无效连接
+Sat Nov 19 22:30:32 CST 2011: 连接池access创建一个新的连接
+Sat Nov 19 22:32:03 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sat Nov 19 22:32:03 CST 2011: 成功创建连接池access
+Sat Nov 19 22:32:03 CST 2011: 连接池access创建一个新的连接
+Sat Nov 19 22:32:53 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sat Nov 19 22:32:53 CST 2011: 成功创建连接池access
+Sat Nov 19 22:32:53 CST 2011: 连接池access创建一个新的连接
+Sat Nov 19 22:33:41 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sat Nov 19 22:33:41 CST 2011: 成功创建连接池access
+Sat Nov 19 22:33:41 CST 2011: 连接池access创建一个新的连接
+Sat Nov 19 22:54:04 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sat Nov 19 22:54:04 CST 2011: 成功创建连接池access
+Sat Nov 19 22:54:05 CST 2011: 连接池access创建一个新的连接
+Sun Nov 20 00:19:54 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sun Nov 20 00:19:54 CST 2011: 成功创建连接池access
+Sun Nov 20 00:19:56 CST 2011: 连接池access创建一个新的连接
+Sun Nov 20 09:51:16 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sun Nov 20 09:51:16 CST 2011: 成功创建连接池access
+Sun Nov 20 09:51:18 CST 2011: 连接池access创建一个新的连接
+Sun Nov 20 09:51:39 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sun Nov 20 09:51:39 CST 2011: 成功创建连接池access
+Sun Nov 20 09:51:39 CST 2011: 连接池access创建一个新的连接
+Sun Nov 20 09:53:06 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sun Nov 20 09:53:06 CST 2011: 成功创建连接池access
+Sun Nov 20 09:53:07 CST 2011: 连接池access创建一个新的连接
+Sun Nov 20 09:54:35 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sun Nov 20 09:54:35 CST 2011: 成功创建连接池access
+Sun Nov 20 09:54:35 CST 2011: 连接池access创建一个新的连接
+Sun Nov 20 09:54:49 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sun Nov 20 09:54:49 CST 2011: 成功创建连接池access
+Sun Nov 20 09:54:49 CST 2011: 连接池access创建一个新的连接
+Sun Nov 20 09:58:20 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sun Nov 20 09:58:20 CST 2011: 成功创建连接池access
+Sun Nov 20 09:58:20 CST 2011: 连接池access创建一个新的连接
+Sun Nov 20 09:58:33 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sun Nov 20 09:58:33 CST 2011: 成功创建连接池access
+Sun Nov 20 09:58:33 CST 2011: 连接池access创建一个新的连接
+Mon Nov 21 14:42:40 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Mon Nov 21 14:42:40 CST 2011: 成功创建连接池access
+Mon Nov 21 14:42:41 CST 2011: 连接池access创建一个新的连接
+Mon Nov 21 15:19:46 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Mon Nov 21 15:19:46 CST 2011: 成功创建连接池access
+Mon Nov 21 15:19:46 CST 2011: 连接池access创建一个新的连接
+Mon Nov 21 15:25:11 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Mon Nov 21 15:25:11 CST 2011: 成功创建连接池access
+Mon Nov 21 15:25:11 CST 2011: 连接池access创建一个新的连接
+Mon Nov 21 15:25:57 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Mon Nov 21 15:25:57 CST 2011: 成功创建连接池access
+Mon Nov 21 15:25:57 CST 2011: 连接池access创建一个新的连接
+Mon Nov 21 15:26:49 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Mon Nov 21 15:26:49 CST 2011: 成功创建连接池access
+Mon Nov 21 15:26:49 CST 2011: 连接池access创建一个新的连接
+Mon Nov 21 15:27:20 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Mon Nov 21 15:27:21 CST 2011: 成功创建连接池access
+Mon Nov 21 15:27:21 CST 2011: 连接池access创建一个新的连接
+Mon Nov 21 15:27:28 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Mon Nov 21 15:27:28 CST 2011: 成功创建连接池access
+Mon Nov 21 15:27:29 CST 2011: 连接池access创建一个新的连接
+Mon Nov 21 16:04:42 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Mon Nov 21 16:04:42 CST 2011: 成功创建连接池access
+Mon Nov 21 16:04:43 CST 2011: 连接池access创建一个新的连接
+Mon Nov 21 16:05:24 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Mon Nov 21 16:05:24 CST 2011: 成功创建连接池access
+Mon Nov 21 16:05:25 CST 2011: 连接池access创建一个新的连接
+Mon Nov 21 16:08:43 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Mon Nov 21 16:08:43 CST 2011: 成功创建连接池access
+Mon Nov 21 16:08:44 CST 2011: 连接池access创建一个新的连接
+Mon Nov 21 16:09:01 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Mon Nov 21 16:09:01 CST 2011: 成功创建连接池access
+Mon Nov 21 16:09:02 CST 2011: 连接池access创建一个新的连接
+Mon Nov 21 16:26:13 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Mon Nov 21 16:26:13 CST 2011: 成功创建连接池access
+Mon Nov 21 16:26:14 CST 2011: 连接池access创建一个新的连接
+Mon Nov 21 16:30:19 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Mon Nov 21 16:30:19 CST 2011: 成功创建连接池access
+Mon Nov 21 16:30:20 CST 2011: 连接池access创建一个新的连接
+Mon Nov 21 16:30:43 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Mon Nov 21 16:30:43 CST 2011: 成功创建连接池access
+Mon Nov 21 16:30:44 CST 2011: 连接池access创建一个新的连接
+Mon Nov 21 16:32:34 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Mon Nov 21 16:32:34 CST 2011: 成功创建连接池access
+Mon Nov 21 16:32:35 CST 2011: 连接池access创建一个新的连接
+Mon Nov 21 16:33:14 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Mon Nov 21 16:33:14 CST 2011: 成功创建连接池access
+Mon Nov 21 16:33:14 CST 2011: 连接池access创建一个新的连接
+Mon Nov 21 16:57:02 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Mon Nov 21 16:57:02 CST 2011: 成功创建连接池access
+Mon Nov 21 16:57:02 CST 2011: 连接池access创建一个新的连接
+Mon Nov 21 16:57:52 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Mon Nov 21 16:57:52 CST 2011: 成功创建连接池access
+Mon Nov 21 16:57:53 CST 2011: 连接池access创建一个新的连接
+Mon Nov 21 17:04:06 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Mon Nov 21 17:04:06 CST 2011: 成功创建连接池access
+Mon Nov 21 17:04:06 CST 2011: 连接池access创建一个新的连接
+Tue Nov 22 00:27:26 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Tue Nov 22 00:27:26 CST 2011: 成功创建连接池access
+Tue Nov 22 00:27:36 CST 2011: 连接池access创建一个新的连接
+Tue Nov 22 00:29:29 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Tue Nov 22 00:29:29 CST 2011: 成功创建连接池access
+Tue Nov 22 00:29:29 CST 2011: 连接池access创建一个新的连接
+Tue Nov 22 00:30:29 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Tue Nov 22 00:30:29 CST 2011: 成功创建连接池access
+Tue Nov 22 00:30:29 CST 2011: 连接池access创建一个新的连接
+Tue Nov 22 00:30:45 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Tue Nov 22 00:30:45 CST 2011: 成功创建连接池access
+Tue Nov 22 00:30:45 CST 2011: 连接池access创建一个新的连接
+Tue Nov 22 00:33:02 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Tue Nov 22 00:33:02 CST 2011: 成功创建连接池access
+Tue Nov 22 00:33:03 CST 2011: 连接池access创建一个新的连接
+Tue Nov 22 00:33:23 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Tue Nov 22 00:33:23 CST 2011: 成功创建连接池access
+Tue Nov 22 00:33:24 CST 2011: 连接池access创建一个新的连接
+Tue Nov 22 00:34:24 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Tue Nov 22 00:34:24 CST 2011: 成功创建连接池access
+Tue Nov 22 00:34:24 CST 2011: 连接池access创建一个新的连接
+Tue Nov 22 00:35:43 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Tue Nov 22 00:35:43 CST 2011: 成功创建连接池access
+Tue Nov 22 00:35:44 CST 2011: 连接池access创建一个新的连接
+Tue Nov 22 13:57:51 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Tue Nov 22 13:57:51 CST 2011: 成功创建连接池access
+Tue Nov 22 13:57:56 CST 2011: 连接池access创建一个新的连接
+Tue Nov 22 14:01:34 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Tue Nov 22 14:01:34 CST 2011: 成功创建连接池access
+Tue Nov 22 14:01:34 CST 2011: 连接池access创建一个新的连接
+Tue Nov 22 14:02:21 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Tue Nov 22 14:02:21 CST 2011: 成功创建连接池access
+Tue Nov 22 14:02:22 CST 2011: 连接池access创建一个新的连接
+Tue Nov 22 14:03:24 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Tue Nov 22 14:03:24 CST 2011: 成功创建连接池access
+Tue Nov 22 14:03:24 CST 2011: 连接池access创建一个新的连接
+Tue Nov 22 14:05:55 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Tue Nov 22 14:05:55 CST 2011: 成功创建连接池access
+Tue Nov 22 14:05:55 CST 2011: 连接池access创建一个新的连接
+Tue Nov 22 14:07:26 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Tue Nov 22 14:07:26 CST 2011: 成功创建连接池access
+Tue Nov 22 14:07:26 CST 2011: 连接池access创建一个新的连接
+Tue Nov 22 14:09:28 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Tue Nov 22 14:09:28 CST 2011: 成功创建连接池access
+Tue Nov 22 14:09:28 CST 2011: 连接池access创建一个新的连接
+Tue Nov 22 14:10:20 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Tue Nov 22 14:10:20 CST 2011: 成功创建连接池access
+Tue Nov 22 14:10:20 CST 2011: 连接池access创建一个新的连接
+Tue Nov 22 14:11:25 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Tue Nov 22 14:11:25 CST 2011: 成功创建连接池access
+Tue Nov 22 14:11:25 CST 2011: 连接池access创建一个新的连接
+Tue Nov 22 14:19:23 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Tue Nov 22 14:19:23 CST 2011: 成功创建连接池access
+Tue Nov 22 14:19:23 CST 2011: 连接池access创建一个新的连接
+Tue Nov 22 14:22:16 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Tue Nov 22 14:22:16 CST 2011: 成功创建连接池access
+Tue Nov 22 14:22:17 CST 2011: 连接池access创建一个新的连接
+Tue Nov 22 14:24:09 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Tue Nov 22 14:24:09 CST 2011: 成功创建连接池access
+Tue Nov 22 14:24:09 CST 2011: 连接池access创建一个新的连接
+Tue Nov 22 14:25:18 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Tue Nov 22 14:25:18 CST 2011: 成功创建连接池access
+Tue Nov 22 14:25:18 CST 2011: 连接池access创建一个新的连接
+Tue Nov 22 14:26:22 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Tue Nov 22 14:26:22 CST 2011: 成功创建连接池access
+Tue Nov 22 14:26:22 CST 2011: 连接池access创建一个新的连接
+Tue Nov 22 14:29:38 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Tue Nov 22 14:29:38 CST 2011: 成功创建连接池access
+Tue Nov 22 14:29:39 CST 2011: 连接池access创建一个新的连接
+Tue Nov 22 14:30:23 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Tue Nov 22 14:30:23 CST 2011: 成功创建连接池access
+Tue Nov 22 14:30:24 CST 2011: 连接池access创建一个新的连接
+Tue Nov 22 14:38:45 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Tue Nov 22 14:38:45 CST 2011: 成功创建连接池access
+Tue Nov 22 14:38:45 CST 2011: 连接池access创建一个新的连接
+Tue Nov 22 14:43:42 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Tue Nov 22 14:43:42 CST 2011: 成功创建连接池access
+Tue Nov 22 14:43:43 CST 2011: 连接池access创建一个新的连接
+Tue Nov 22 14:51:09 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Tue Nov 22 14:51:09 CST 2011: 成功创建连接池access
+Tue Nov 22 14:51:10 CST 2011: 连接池access创建一个新的连接
+Tue Nov 22 14:51:59 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Tue Nov 22 14:51:59 CST 2011: 成功创建连接池access
+Tue Nov 22 14:51:59 CST 2011: 连接池access创建一个新的连接
+Tue Nov 22 14:52:24 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Tue Nov 22 14:52:24 CST 2011: 成功创建连接池access
+Tue Nov 22 14:52:24 CST 2011: 连接池access创建一个新的连接
+Tue Nov 22 14:52:52 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Tue Nov 22 14:52:52 CST 2011: 成功创建连接池access
+Tue Nov 22 14:52:52 CST 2011: 连接池access创建一个新的连接
+Tue Nov 22 14:54:59 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Tue Nov 22 14:54:59 CST 2011: 成功创建连接池access
+Tue Nov 22 14:54:59 CST 2011: 连接池access创建一个新的连接
+Tue Nov 22 14:56:06 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Tue Nov 22 14:56:06 CST 2011: 成功创建连接池access
+Tue Nov 22 14:56:06 CST 2011: 连接池access创建一个新的连接
+Tue Nov 22 14:57:46 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Tue Nov 22 14:57:46 CST 2011: 成功创建连接池access
+Tue Nov 22 14:57:46 CST 2011: 连接池access创建一个新的连接
+Tue Nov 22 15:00:52 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Tue Nov 22 15:00:52 CST 2011: 成功创建连接池access
+Tue Nov 22 15:00:52 CST 2011: 连接池access创建一个新的连接
+Tue Nov 22 15:02:58 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Tue Nov 22 15:02:58 CST 2011: 成功创建连接池access
+Tue Nov 22 15:02:58 CST 2011: 连接池access创建一个新的连接
+Tue Nov 22 15:03:28 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Tue Nov 22 15:03:28 CST 2011: 成功创建连接池access
+Tue Nov 22 15:03:29 CST 2011: 连接池access创建一个新的连接
+Tue Nov 22 15:21:25 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Tue Nov 22 15:21:25 CST 2011: 成功创建连接池access
+Tue Nov 22 15:21:26 CST 2011: 连接池access创建一个新的连接
+Tue Nov 22 15:23:19 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Tue Nov 22 15:23:19 CST 2011: 成功创建连接池access
+Tue Nov 22 15:23:19 CST 2011: 连接池access创建一个新的连接
+Tue Nov 22 15:43:52 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Tue Nov 22 15:43:52 CST 2011: 成功创建连接池access
+Tue Nov 22 15:43:53 CST 2011: 连接池access创建一个新的连接
+Tue Nov 22 15:50:58 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Tue Nov 22 15:50:58 CST 2011: 成功创建连接池access
+Tue Nov 22 15:50:58 CST 2011: 连接池access创建一个新的连接
+Tue Nov 22 16:17:43 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Tue Nov 22 16:17:43 CST 2011: 成功创建连接池access
+Tue Nov 22 16:17:43 CST 2011: 连接池access创建一个新的连接
+Tue Nov 22 16:20:32 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Tue Nov 22 16:20:32 CST 2011: 成功创建连接池access
+Tue Nov 22 16:20:33 CST 2011: 连接池access创建一个新的连接
+Tue Nov 22 19:40:54 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Tue Nov 22 19:40:54 CST 2011: 成功创建连接池access
+Tue Nov 22 19:42:17 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Tue Nov 22 19:42:17 CST 2011: 成功创建连接池access
+Tue Nov 22 19:42:17 CST 2011: 连接池access创建一个新的连接
+Tue Nov 22 19:43:57 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Tue Nov 22 19:43:57 CST 2011: 成功创建连接池access
+Tue Nov 22 19:43:58 CST 2011: 连接池access创建一个新的连接
+Tue Nov 22 19:44:38 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Tue Nov 22 19:44:38 CST 2011: 成功创建连接池access
+Tue Nov 22 19:44:38 CST 2011: 连接池access创建一个新的连接
+Tue Nov 22 19:45:40 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Tue Nov 22 19:45:40 CST 2011: 成功创建连接池access
+Tue Nov 22 19:45:40 CST 2011: 连接池access创建一个新的连接
+Tue Nov 22 19:47:49 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Tue Nov 22 19:47:49 CST 2011: 成功创建连接池access
+Tue Nov 22 19:47:50 CST 2011: 连接池access创建一个新的连接
+Tue Nov 22 19:50:47 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Tue Nov 22 19:50:47 CST 2011: 成功创建连接池access
+Tue Nov 22 19:50:47 CST 2011: 连接池access创建一个新的连接
+Tue Nov 22 19:53:39 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Tue Nov 22 19:53:39 CST 2011: 成功创建连接池access
+Tue Nov 22 19:53:39 CST 2011: 连接池access创建一个新的连接
+Tue Nov 22 19:57:51 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Tue Nov 22 19:57:51 CST 2011: 成功创建连接池access
+Tue Nov 22 19:57:51 CST 2011: 连接池access创建一个新的连接
+Tue Nov 22 19:58:01 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Tue Nov 22 19:58:01 CST 2011: 成功创建连接池access
+Tue Nov 22 19:58:01 CST 2011: 连接池access创建一个新的连接
+Tue Nov 22 20:00:42 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Tue Nov 22 20:00:42 CST 2011: 成功创建连接池access
+Tue Nov 22 20:00:42 CST 2011: 连接池access创建一个新的连接
+Tue Nov 22 20:01:54 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Tue Nov 22 20:01:54 CST 2011: 成功创建连接池access
+Tue Nov 22 20:01:54 CST 2011: 连接池access创建一个新的连接
+Tue Nov 22 20:02:55 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Tue Nov 22 20:02:55 CST 2011: 成功创建连接池access
+Tue Nov 22 20:02:56 CST 2011: 连接池access创建一个新的连接
+Tue Nov 22 20:04:38 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Tue Nov 22 20:04:38 CST 2011: 成功创建连接池access
+Tue Nov 22 20:04:38 CST 2011: 连接池access创建一个新的连接
+Tue Nov 22 21:01:29 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Tue Nov 22 21:01:29 CST 2011: 成功创建连接池access
+Tue Nov 22 21:01:30 CST 2011: 连接池access创建一个新的连接
+Tue Nov 22 21:05:18 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Tue Nov 22 21:05:18 CST 2011: 成功创建连接池access
+Tue Nov 22 21:05:18 CST 2011: 连接池access创建一个新的连接
+Tue Nov 22 21:06:25 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Tue Nov 22 21:06:25 CST 2011: 成功创建连接池access
+Tue Nov 22 21:06:25 CST 2011: 连接池access创建一个新的连接
+Tue Nov 22 21:07:16 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Tue Nov 22 21:07:16 CST 2011: 成功创建连接池access
+Tue Nov 22 21:07:17 CST 2011: 连接池access创建一个新的连接
+Tue Nov 22 21:08:31 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Tue Nov 22 21:08:31 CST 2011: 成功创建连接池access
+Tue Nov 22 21:08:31 CST 2011: 连接池access创建一个新的连接
+Tue Nov 22 21:11:23 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Tue Nov 22 21:11:23 CST 2011: 成功创建连接池access
+Tue Nov 22 21:11:23 CST 2011: 连接池access创建一个新的连接
+Tue Nov 22 21:12:10 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Tue Nov 22 21:12:10 CST 2011: 成功创建连接池access
+Tue Nov 22 21:12:10 CST 2011: 连接池access创建一个新的连接
+Tue Nov 22 21:14:52 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Tue Nov 22 21:14:52 CST 2011: 成功创建连接池access
+Tue Nov 22 21:14:53 CST 2011: 连接池access创建一个新的连接
+Tue Nov 22 21:19:09 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Tue Nov 22 21:19:09 CST 2011: 成功创建连接池access
+Tue Nov 22 21:19:09 CST 2011: 连接池access创建一个新的连接
+Tue Nov 22 21:20:39 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Tue Nov 22 21:20:39 CST 2011: 成功创建连接池access
+Tue Nov 22 21:20:40 CST 2011: 连接池access创建一个新的连接
+Tue Nov 22 21:31:00 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Tue Nov 22 21:31:00 CST 2011: 成功创建连接池access
+Tue Nov 22 21:31:00 CST 2011: 连接池access创建一个新的连接
+Tue Nov 22 21:51:32 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Tue Nov 22 21:51:32 CST 2011: 成功创建连接池access
+Tue Nov 22 21:51:32 CST 2011: 连接池access创建一个新的连接
+Wed Nov 23 14:09:28 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Wed Nov 23 14:09:28 CST 2011: 成功创建连接池access
+Wed Nov 23 14:09:29 CST 2011: 连接池access创建一个新的连接
+Wed Nov 23 14:17:12 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Wed Nov 23 14:17:12 CST 2011: 成功创建连接池access
+Wed Nov 23 14:17:12 CST 2011: 连接池access创建一个新的连接
+Wed Nov 23 14:23:22 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Wed Nov 23 14:23:22 CST 2011: 成功创建连接池access
+Wed Nov 23 14:23:23 CST 2011: 连接池access创建一个新的连接
+Wed Nov 23 14:23:56 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Wed Nov 23 14:23:56 CST 2011: 成功创建连接池access
+Wed Nov 23 14:23:57 CST 2011: 连接池access创建一个新的连接
+Wed Nov 23 14:24:58 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Wed Nov 23 14:24:58 CST 2011: 成功创建连接池access
+Wed Nov 23 14:24:58 CST 2011: 连接池access创建一个新的连接
+Wed Nov 23 14:25:53 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Wed Nov 23 14:25:53 CST 2011: 成功创建连接池access
+Wed Nov 23 14:25:53 CST 2011: 连接池access创建一个新的连接
+Wed Nov 23 14:27:54 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Wed Nov 23 14:27:54 CST 2011: 成功创建连接池access
+Wed Nov 23 14:27:55 CST 2011: 连接池access创建一个新的连接
+Wed Nov 23 14:29:27 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Wed Nov 23 14:29:27 CST 2011: 成功创建连接池access
+Wed Nov 23 14:29:27 CST 2011: 连接池access创建一个新的连接
+Wed Nov 23 14:36:59 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Wed Nov 23 14:36:59 CST 2011: 成功创建连接池access
+Wed Nov 23 14:36:59 CST 2011: 连接池access创建一个新的连接
+Wed Nov 23 14:41:58 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Wed Nov 23 14:41:58 CST 2011: 成功创建连接池access
+Wed Nov 23 14:41:58 CST 2011: 连接池access创建一个新的连接
+Wed Nov 23 14:43:51 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Wed Nov 23 14:43:51 CST 2011: 成功创建连接池access
+Wed Nov 23 14:43:51 CST 2011: 连接池access创建一个新的连接
+Wed Nov 23 14:45:17 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Wed Nov 23 14:45:17 CST 2011: 成功创建连接池access
+Wed Nov 23 14:45:17 CST 2011: 连接池access创建一个新的连接
+Wed Nov 23 19:44:35 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Wed Nov 23 19:44:35 CST 2011: 成功创建连接池access
+Wed Nov 23 19:44:38 CST 2011: 连接池access创建一个新的连接
+Wed Nov 23 19:44:38 CST 2011: 连接池access创建一个新的连接
+Wed Nov 23 19:44:38 CST 2011: 连接池access创建一个新的连接
+Wed Nov 23 20:24:18 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Wed Nov 23 20:24:18 CST 2011: 成功创建连接池access
+Wed Nov 23 20:24:19 CST 2011: 连接池access创建一个新的连接
+Wed Nov 23 20:24:48 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Wed Nov 23 20:24:48 CST 2011: 成功创建连接池access
+Wed Nov 23 20:24:48 CST 2011: 连接池access创建一个新的连接
+Thu Nov 24 00:51:34 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Thu Nov 24 00:51:34 CST 2011: 成功创建连接池access
+Thu Nov 24 00:51:39 CST 2011: 连接池access创建一个新的连接
+Thu Nov 24 12:53:10 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Thu Nov 24 12:53:10 CST 2011: 成功创建连接池access
+Thu Nov 24 12:53:12 CST 2011: 连接池access创建一个新的连接
+Thu Nov 24 13:56:49 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Thu Nov 24 13:56:49 CST 2011: 成功创建连接池access
+Thu Nov 24 13:56:53 CST 2011: 连接池access创建一个新的连接
+Thu Nov 24 14:24:54 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Thu Nov 24 14:24:54 CST 2011: 成功创建连接池access
+Thu Nov 24 14:24:55 CST 2011: 连接池access创建一个新的连接
+Thu Nov 24 14:53:39 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Thu Nov 24 14:53:39 CST 2011: 成功创建连接池access
+Thu Nov 24 14:53:39 CST 2011: 连接池access创建一个新的连接
+Thu Nov 24 14:55:21 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Thu Nov 24 14:55:21 CST 2011: 成功创建连接池access
+Thu Nov 24 14:55:21 CST 2011: 连接池access创建一个新的连接
+Thu Nov 24 14:56:47 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Thu Nov 24 14:56:47 CST 2011: 成功创建连接池access
+Thu Nov 24 14:56:48 CST 2011: 连接池access创建一个新的连接
+Thu Nov 24 15:00:37 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Thu Nov 24 15:00:37 CST 2011: 成功创建连接池access
+Thu Nov 24 15:00:37 CST 2011: 连接池access创建一个新的连接
+Thu Nov 24 15:02:43 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Thu Nov 24 15:02:43 CST 2011: 成功创建连接池access
+Thu Nov 24 15:02:44 CST 2011: 连接池access创建一个新的连接
+Thu Nov 24 15:03:55 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Thu Nov 24 15:03:55 CST 2011: 成功创建连接池access
+Thu Nov 24 15:03:55 CST 2011: 连接池access创建一个新的连接
+Thu Nov 24 15:07:16 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Thu Nov 24 15:07:16 CST 2011: 成功创建连接池access
+Thu Nov 24 15:07:17 CST 2011: 连接池access创建一个新的连接
+Thu Nov 24 15:12:08 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Thu Nov 24 15:12:08 CST 2011: 成功创建连接池access
+Thu Nov 24 15:12:09 CST 2011: 连接池access创建一个新的连接
+Thu Nov 24 15:13:13 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Thu Nov 24 15:13:13 CST 2011: 成功创建连接池access
+Thu Nov 24 15:13:13 CST 2011: 连接池access创建一个新的连接
+Thu Nov 24 18:50:31 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Thu Nov 24 18:50:32 CST 2011: 成功创建连接池access
+Thu Nov 24 18:50:34 CST 2011: 连接池access创建一个新的连接
+Thu Nov 24 18:59:08 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Thu Nov 24 18:59:09 CST 2011: 成功创建连接池access
+Thu Nov 24 18:59:09 CST 2011: 连接池access创建一个新的连接
+Thu Nov 24 19:21:40 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Thu Nov 24 19:21:40 CST 2011: 成功创建连接池access
+Thu Nov 24 19:21:41 CST 2011: 连接池access创建一个新的连接
+Thu Nov 24 19:23:58 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Thu Nov 24 19:23:58 CST 2011: 成功创建连接池access
+Thu Nov 24 19:23:59 CST 2011: 连接池access创建一个新的连接
+Thu Nov 24 19:25:15 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Thu Nov 24 19:25:15 CST 2011: 成功创建连接池access
+Thu Nov 24 19:25:15 CST 2011: 连接池access创建一个新的连接
+Thu Nov 24 19:26:44 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Thu Nov 24 19:26:44 CST 2011: 成功创建连接池access
+Thu Nov 24 19:26:45 CST 2011: 连接池access创建一个新的连接
+Thu Nov 24 19:28:09 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Thu Nov 24 19:28:09 CST 2011: 成功创建连接池access
+Thu Nov 24 19:28:09 CST 2011: 连接池access创建一个新的连接
+Thu Nov 24 19:29:14 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Thu Nov 24 19:29:14 CST 2011: 成功创建连接池access
+Thu Nov 24 19:29:14 CST 2011: 连接池access创建一个新的连接
+Thu Nov 24 19:43:29 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Thu Nov 24 19:43:29 CST 2011: 成功创建连接池access
+Thu Nov 24 19:43:30 CST 2011: 连接池access创建一个新的连接
+Thu Nov 24 19:46:21 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Thu Nov 24 19:46:21 CST 2011: 成功创建连接池access
+Thu Nov 24 19:46:21 CST 2011: 连接池access创建一个新的连接
+Thu Nov 24 19:52:31 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Thu Nov 24 19:52:31 CST 2011: 成功创建连接池access
+Thu Nov 24 19:52:31 CST 2011: 连接池access创建一个新的连接
+Thu Nov 24 19:53:18 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Thu Nov 24 19:53:18 CST 2011: 成功创建连接池access
+Thu Nov 24 19:53:18 CST 2011: 连接池access创建一个新的连接
+Thu Nov 24 19:54:31 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Thu Nov 24 19:54:31 CST 2011: 成功创建连接池access
+Thu Nov 24 19:54:32 CST 2011: 连接池access创建一个新的连接
+Thu Nov 24 20:25:27 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Thu Nov 24 20:25:27 CST 2011: 成功创建连接池access
+Thu Nov 24 20:25:28 CST 2011: 连接池access创建一个新的连接
+Thu Nov 24 20:38:04 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Thu Nov 24 20:38:04 CST 2011: 成功创建连接池access
+Thu Nov 24 20:38:05 CST 2011: 连接池access创建一个新的连接
+Thu Nov 24 21:38:50 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Thu Nov 24 21:38:50 CST 2011: 成功创建连接池access
+Thu Nov 24 21:38:51 CST 2011: 连接池access创建一个新的连接
+Thu Nov 24 21:44:49 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Thu Nov 24 21:44:49 CST 2011: 成功创建连接池access
+Thu Nov 24 21:44:50 CST 2011: 连接池access创建一个新的连接
+Thu Nov 24 23:05:21 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Thu Nov 24 23:05:22 CST 2011: 成功创建连接池access
+Thu Nov 24 23:05:30 CST 2011: 连接池access创建一个新的连接
+Thu Nov 24 23:06:00 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Thu Nov 24 23:06:00 CST 2011: 成功创建连接池access
+Thu Nov 24 23:06:00 CST 2011: 连接池access创建一个新的连接
+Thu Nov 24 23:08:55 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Thu Nov 24 23:08:55 CST 2011: 成功创建连接池access
+Thu Nov 24 23:08:56 CST 2011: 连接池access创建一个新的连接
+Thu Nov 24 23:11:48 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Thu Nov 24 23:11:48 CST 2011: 成功创建连接池access
+Thu Nov 24 23:11:54 CST 2011: 连接池access创建一个新的连接
+Thu Nov 24 23:13:34 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Thu Nov 24 23:13:34 CST 2011: 成功创建连接池access
+Thu Nov 24 23:13:35 CST 2011: 连接池access创建一个新的连接
+Thu Nov 24 23:56:47 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Thu Nov 24 23:56:47 CST 2011: 成功创建连接池access
+Thu Nov 24 23:56:48 CST 2011: 连接池access创建一个新的连接
+Fri Nov 25 00:37:18 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Fri Nov 25 00:37:18 CST 2011: 成功创建连接池access
+Fri Nov 25 00:37:19 CST 2011: 连接池access创建一个新的连接
+Fri Nov 25 01:16:32 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Fri Nov 25 01:16:33 CST 2011: 成功创建连接池access
+Fri Nov 25 01:16:33 CST 2011: 连接池access创建一个新的连接
+Fri Nov 25 01:18:53 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Fri Nov 25 01:18:53 CST 2011: 成功创建连接池access
+Fri Nov 25 01:18:53 CST 2011: 连接池access创建一个新的连接
+Fri Nov 25 01:19:28 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Fri Nov 25 01:19:28 CST 2011: 成功创建连接池access
+Fri Nov 25 01:19:32 CST 2011: 连接池access创建一个新的连接
+Fri Nov 25 01:23:24 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Fri Nov 25 01:23:24 CST 2011: 成功创建连接池access
+Fri Nov 25 01:23:24 CST 2011: 连接池access创建一个新的连接
+Fri Nov 25 01:24:43 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Fri Nov 25 01:24:43 CST 2011: 成功创建连接池access
+Fri Nov 25 01:24:43 CST 2011: 连接池access创建一个新的连接
+Fri Nov 25 01:49:41 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Fri Nov 25 01:49:41 CST 2011: 成功创建连接池access
+Fri Nov 25 01:49:41 CST 2011: 连接池access创建一个新的连接
+Fri Nov 25 02:56:24 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Fri Nov 25 02:56:24 CST 2011: 成功创建连接池access
+Fri Nov 25 02:56:24 CST 2011: 连接池access创建一个新的连接
+Fri Nov 25 03:03:29 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Fri Nov 25 03:03:29 CST 2011: 成功创建连接池access
+Fri Nov 25 03:03:29 CST 2011: 连接池access创建一个新的连接
+Fri Nov 25 03:07:04 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Fri Nov 25 03:07:04 CST 2011: 成功创建连接池access
+Fri Nov 25 03:07:04 CST 2011: 连接池access创建一个新的连接
+Fri Nov 25 03:10:43 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Fri Nov 25 03:10:43 CST 2011: 成功创建连接池access
+Fri Nov 25 03:10:43 CST 2011: 连接池access创建一个新的连接
+Fri Nov 25 03:12:07 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Fri Nov 25 03:12:07 CST 2011: 成功创建连接池access
+Fri Nov 25 03:12:08 CST 2011: 连接池access创建一个新的连接
+Fri Nov 25 03:13:28 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Fri Nov 25 03:13:28 CST 2011: 成功创建连接池access
+Fri Nov 25 03:13:28 CST 2011: 连接池access创建一个新的连接
+Fri Nov 25 03:15:26 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Fri Nov 25 03:15:26 CST 2011: 成功创建连接池access
+Fri Nov 25 03:15:27 CST 2011: 连接池access创建一个新的连接
+Fri Nov 25 03:37:57 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Fri Nov 25 03:37:57 CST 2011: 成功创建连接池access
+Fri Nov 25 03:37:57 CST 2011: 连接池access创建一个新的连接
+Fri Nov 25 03:39:27 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Fri Nov 25 03:39:27 CST 2011: 成功创建连接池access
+Fri Nov 25 03:39:27 CST 2011: 连接池access创建一个新的连接
+Fri Nov 25 03:41:58 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Fri Nov 25 03:41:58 CST 2011: 成功创建连接池access
+Fri Nov 25 03:41:58 CST 2011: 连接池access创建一个新的连接
+Fri Nov 25 03:43:56 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Fri Nov 25 03:43:56 CST 2011: 成功创建连接池access
+Fri Nov 25 03:43:56 CST 2011: 连接池access创建一个新的连接
+Fri Nov 25 03:45:55 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Fri Nov 25 03:45:55 CST 2011: 成功创建连接池access
+Fri Nov 25 03:45:55 CST 2011: 连接池access创建一个新的连接
+Fri Nov 25 03:53:44 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Fri Nov 25 03:53:44 CST 2011: 成功创建连接池access
+Fri Nov 25 03:53:45 CST 2011: 连接池access创建一个新的连接
+Fri Nov 25 09:57:37 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Fri Nov 25 09:57:37 CST 2011: 成功创建连接池access
+Fri Nov 25 09:57:38 CST 2011: 连接池access创建一个新的连接
+Fri Nov 25 13:16:42 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Fri Nov 25 13:16:42 CST 2011: 成功创建连接池access
+Fri Nov 25 13:16:45 CST 2011: 连接池access创建一个新的连接
+Fri Nov 25 13:33:52 CST 2011: 连接池access创建一个新的连接
+Fri Nov 25 14:17:10 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Fri Nov 25 14:17:10 CST 2011: 成功创建连接池access
+Fri Nov 25 14:17:10 CST 2011: 连接池access创建一个新的连接
+Fri Nov 25 14:22:36 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Fri Nov 25 14:22:36 CST 2011: 成功创建连接池access
+Fri Nov 25 14:22:37 CST 2011: 连接池access创建一个新的连接
+Fri Nov 25 14:32:45 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Fri Nov 25 14:32:45 CST 2011: 成功创建连接池access
+Fri Nov 25 14:32:46 CST 2011: 连接池access创建一个新的连接
+Fri Nov 25 15:14:03 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Fri Nov 25 15:14:03 CST 2011: 成功创建连接池access
+Fri Nov 25 15:14:05 CST 2011: 连接池access创建一个新的连接
+Fri Nov 25 15:21:44 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Fri Nov 25 15:21:44 CST 2011: 成功创建连接池access
+Fri Nov 25 15:21:45 CST 2011: 连接池access创建一个新的连接
+Sat Nov 26 00:30:20 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sat Nov 26 00:30:20 CST 2011: 成功创建连接池access
+Sat Nov 26 00:30:22 CST 2011: 连接池access创建一个新的连接
+Sat Nov 26 00:30:23 CST 2011: 连接池access创建一个新的连接
+Sat Nov 26 08:51:26 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sat Nov 26 08:51:26 CST 2011: 成功创建连接池access
+Sat Nov 26 08:51:29 CST 2011: 连接池access创建一个新的连接
+Sat Nov 26 08:55:14 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sat Nov 26 08:55:14 CST 2011: 成功创建连接池access
+Sat Nov 26 08:55:14 CST 2011: 连接池access创建一个新的连接
+Sat Nov 26 09:02:32 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sat Nov 26 09:02:32 CST 2011: 成功创建连接池access
+Sat Nov 26 09:02:32 CST 2011: 连接池access创建一个新的连接
+Sat Nov 26 09:07:59 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sat Nov 26 09:07:59 CST 2011: 成功创建连接池access
+Sat Nov 26 09:08:00 CST 2011: 连接池access创建一个新的连接
+Sat Nov 26 09:36:10 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sat Nov 26 09:36:10 CST 2011: 成功创建连接池access
+Sat Nov 26 09:36:12 CST 2011: 连接池access创建一个新的连接
+Sat Nov 26 09:36:12 CST 2011: 连接池access创建一个新的连接
+Sat Nov 26 09:37:42 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sat Nov 26 09:37:42 CST 2011: 成功创建连接池access
+Sat Nov 26 09:37:42 CST 2011: 连接池access创建一个新的连接
+Sat Nov 26 09:44:03 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sat Nov 26 09:44:03 CST 2011: 成功创建连接池access
+Sat Nov 26 09:44:03 CST 2011: 连接池access创建一个新的连接
+Sat Nov 26 09:50:48 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sat Nov 26 09:50:48 CST 2011: 成功创建连接池access
+Sat Nov 26 09:50:49 CST 2011: 连接池access创建一个新的连接
+Sat Nov 26 09:50:49 CST 2011: 连接池access创建一个新的连接
+Sat Nov 26 10:02:18 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sat Nov 26 10:02:18 CST 2011: 成功创建连接池access
+Sat Nov 26 10:02:18 CST 2011: 连接池access创建一个新的连接
+Sat Nov 26 10:03:56 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sat Nov 26 10:03:56 CST 2011: 成功创建连接池access
+Sat Nov 26 10:03:56 CST 2011: 连接池access创建一个新的连接
+Sat Nov 26 10:05:33 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sat Nov 26 10:05:33 CST 2011: 成功创建连接池access
+Sat Nov 26 10:05:33 CST 2011: 连接池access创建一个新的连接
+Sat Nov 26 10:10:04 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sat Nov 26 10:10:04 CST 2011: 成功创建连接池access
+Sat Nov 26 10:10:04 CST 2011: 连接池access创建一个新的连接
+Sat Nov 26 10:11:04 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sat Nov 26 10:11:04 CST 2011: 成功创建连接池access
+Sat Nov 26 10:11:04 CST 2011: 连接池access创建一个新的连接
+Sat Nov 26 10:14:43 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sat Nov 26 10:14:43 CST 2011: 成功创建连接池access
+Sat Nov 26 10:14:45 CST 2011: 连接池access创建一个新的连接
+Sat Nov 26 10:19:01 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sat Nov 26 10:19:01 CST 2011: 成功创建连接池access
+Sat Nov 26 10:19:02 CST 2011: 连接池access创建一个新的连接
+Sat Nov 26 10:22:00 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sat Nov 26 10:22:00 CST 2011: 成功创建连接池access
+Sat Nov 26 10:22:00 CST 2011: 连接池access创建一个新的连接
+Sat Nov 26 12:09:01 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sat Nov 26 12:09:01 CST 2011: 成功创建连接池access
+Sat Nov 26 12:09:33 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sat Nov 26 12:09:33 CST 2011: 成功创建连接池access
+Sat Nov 26 12:09:36 CST 2011: 连接池access创建一个新的连接
+Sat Nov 26 12:13:37 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sat Nov 26 12:13:37 CST 2011: 成功创建连接池access
+Sat Nov 26 12:13:37 CST 2011: 连接池access创建一个新的连接
+Sat Nov 26 12:16:16 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sat Nov 26 12:16:16 CST 2011: 成功创建连接池access
+Sat Nov 26 12:16:16 CST 2011: 连接池access创建一个新的连接
+Sat Nov 26 12:20:26 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sat Nov 26 12:20:26 CST 2011: 成功创建连接池access
+Sat Nov 26 12:20:29 CST 2011: 连接池access创建一个新的连接
+Sat Nov 26 12:23:27 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sat Nov 26 12:23:27 CST 2011: 成功创建连接池access
+Sat Nov 26 12:23:27 CST 2011: 连接池access创建一个新的连接
+Sat Nov 26 15:33:39 CST 2011: 连接池access创建一个新的连接
+Sat Nov 26 15:33:40 CST 2011: 连接池access创建一个新的连接
+Sat Nov 26 15:39:20 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sat Nov 26 15:39:20 CST 2011: 成功创建连接池access
+Sat Nov 26 15:39:21 CST 2011: 连接池access创建一个新的连接
+Sat Nov 26 15:39:56 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sat Nov 26 15:39:56 CST 2011: 成功创建连接池access
+Sat Nov 26 15:39:56 CST 2011: 连接池access创建一个新的连接
+Sat Nov 26 15:40:38 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sat Nov 26 15:40:38 CST 2011: 成功创建连接池access
+Sat Nov 26 15:40:38 CST 2011: 连接池access创建一个新的连接
+Sat Nov 26 15:41:50 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sat Nov 26 15:41:50 CST 2011: 成功创建连接池access
+Sat Nov 26 15:41:50 CST 2011: 连接池access创建一个新的连接
+Sat Nov 26 15:42:42 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sat Nov 26 15:42:42 CST 2011: 成功创建连接池access
+Sat Nov 26 15:42:42 CST 2011: 连接池access创建一个新的连接
+Sat Nov 26 15:43:11 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sat Nov 26 15:43:11 CST 2011: 成功创建连接池access
+Sat Nov 26 15:43:11 CST 2011: 连接池access创建一个新的连接
+Sat Nov 26 16:09:18 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sat Nov 26 16:09:18 CST 2011: 成功创建连接池access
+Sat Nov 26 16:09:19 CST 2011: 连接池access创建一个新的连接
+Sat Nov 26 16:35:50 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sat Nov 26 16:35:50 CST 2011: 成功创建连接池access
+Sat Nov 26 16:35:51 CST 2011: 连接池access创建一个新的连接
+Sat Nov 26 16:39:17 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sat Nov 26 16:39:17 CST 2011: 成功创建连接池access
+Sat Nov 26 16:39:17 CST 2011: 连接池access创建一个新的连接
+Sat Nov 26 16:39:58 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sat Nov 26 16:39:58 CST 2011: 成功创建连接池access
+Sat Nov 26 16:39:59 CST 2011: 连接池access创建一个新的连接
+Sat Nov 26 16:56:54 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sat Nov 26 16:56:54 CST 2011: 成功创建连接池access
+Sat Nov 26 16:56:55 CST 2011: 连接池access创建一个新的连接
+Sat Nov 26 16:58:04 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sat Nov 26 16:58:04 CST 2011: 成功创建连接池access
+Sat Nov 26 16:59:20 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sat Nov 26 16:59:20 CST 2011: 成功创建连接池access
+Sat Nov 26 16:59:20 CST 2011: 连接池access创建一个新的连接
+Sat Nov 26 17:00:41 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sat Nov 26 17:00:41 CST 2011: 成功创建连接池access
+Sat Nov 26 17:00:42 CST 2011: 连接池access创建一个新的连接
+Sat Nov 26 17:01:16 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sat Nov 26 17:01:16 CST 2011: 成功创建连接池access
+Sat Nov 26 17:01:16 CST 2011: 连接池access创建一个新的连接
+Sat Nov 26 17:51:11 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sat Nov 26 17:51:11 CST 2011: 成功创建连接池access
+Sat Nov 26 17:51:16 CST 2011: 连接池access创建一个新的连接
+Sat Nov 26 17:51:16 CST 2011: 连接池access创建一个新的连接
+Sat Nov 26 17:54:38 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sat Nov 26 17:54:38 CST 2011: 成功创建连接池access
+Sat Nov 26 17:54:38 CST 2011: 连接池access创建一个新的连接
+Sat Nov 26 17:55:44 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sat Nov 26 17:55:44 CST 2011: 成功创建连接池access
+Sat Nov 26 17:55:45 CST 2011: 连接池access创建一个新的连接
+Sat Nov 26 17:59:12 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sat Nov 26 17:59:12 CST 2011: 成功创建连接池access
+Sat Nov 26 17:59:13 CST 2011: 连接池access创建一个新的连接
+Sat Nov 26 18:03:15 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sat Nov 26 18:03:15 CST 2011: 成功创建连接池access
+Sat Nov 26 18:03:16 CST 2011: 连接池access创建一个新的连接
+Sat Nov 26 18:03:42 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sat Nov 26 18:03:42 CST 2011: 成功创建连接池access
+Sat Nov 26 18:03:43 CST 2011: 连接池access创建一个新的连接
+Sat Nov 26 18:14:36 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sat Nov 26 18:14:37 CST 2011: 成功创建连接池access
+Sat Nov 26 18:14:38 CST 2011: 连接池access创建一个新的连接
+Sat Nov 26 18:24:09 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sat Nov 26 18:24:09 CST 2011: 成功创建连接池access
+Sat Nov 26 18:24:10 CST 2011: 连接池access创建一个新的连接
+Sat Nov 26 18:30:26 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sat Nov 26 18:30:26 CST 2011: 成功创建连接池access
+Sat Nov 26 18:30:27 CST 2011: 连接池access创建一个新的连接
+Sat Nov 26 18:42:16 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sat Nov 26 18:42:16 CST 2011: 成功创建连接池access
+Sat Nov 26 18:42:17 CST 2011: 连接池access创建一个新的连接
+Sat Nov 26 18:52:33 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sat Nov 26 18:52:33 CST 2011: 成功创建连接池access
+Sat Nov 26 18:52:34 CST 2011: 连接池access创建一个新的连接
+Sat Nov 26 19:27:22 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sat Nov 26 19:27:22 CST 2011: 成功创建连接池access
+Sat Nov 26 19:27:23 CST 2011: 连接池access创建一个新的连接
+Sat Nov 26 19:45:57 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sat Nov 26 19:45:57 CST 2011: 成功创建连接池access
+Sat Nov 26 19:45:57 CST 2011: 连接池access创建一个新的连接
+Sat Nov 26 19:54:03 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sat Nov 26 19:54:03 CST 2011: 成功创建连接池access
+Sat Nov 26 19:54:04 CST 2011: 连接池access创建一个新的连接
+Sat Nov 26 20:23:00 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sat Nov 26 20:23:00 CST 2011: 成功创建连接池access
+Sat Nov 26 20:23:01 CST 2011: 连接池access创建一个新的连接
+Sat Nov 26 20:24:08 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sat Nov 26 20:24:08 CST 2011: 成功创建连接池access
+Sat Nov 26 20:24:08 CST 2011: 连接池access创建一个新的连接
+Sat Nov 26 20:25:33 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sat Nov 26 20:25:33 CST 2011: 成功创建连接池access
+Sat Nov 26 20:25:33 CST 2011: 连接池access创建一个新的连接
+Sat Nov 26 20:48:34 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sat Nov 26 20:48:34 CST 2011: 成功创建连接池access
+Sat Nov 26 20:48:37 CST 2011: 连接池access创建一个新的连接
+Sat Nov 26 20:51:12 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sat Nov 26 20:51:12 CST 2011: 成功创建连接池access
+Sat Nov 26 20:51:13 CST 2011: 连接池access创建一个新的连接
+Sat Nov 26 21:36:45 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sat Nov 26 21:36:45 CST 2011: 成功创建连接池access
+Sat Nov 26 21:36:47 CST 2011: 连接池access创建一个新的连接
+Sat Nov 26 21:39:02 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sat Nov 26 21:39:02 CST 2011: 成功创建连接池access
+Sat Nov 26 21:39:02 CST 2011: 连接池access创建一个新的连接
+Sat Nov 26 21:41:34 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sat Nov 26 21:41:34 CST 2011: 成功创建连接池access
+Sat Nov 26 21:41:34 CST 2011: 连接池access创建一个新的连接
+Sat Nov 26 21:50:59 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sat Nov 26 21:50:59 CST 2011: 成功创建连接池access
+Sat Nov 26 21:50:59 CST 2011: 连接池access创建一个新的连接
+Sat Nov 26 22:14:31 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sat Nov 26 22:14:31 CST 2011: 成功创建连接池access
+Sat Nov 26 22:14:31 CST 2011: 连接池access创建一个新的连接
+Sat Nov 26 22:25:09 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sat Nov 26 22:25:09 CST 2011: 成功创建连接池access
+Sat Nov 26 22:25:09 CST 2011: 连接池access创建一个新的连接
+Sat Nov 26 22:25:49 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sat Nov 26 22:25:49 CST 2011: 成功创建连接池access
+Sat Nov 26 22:25:50 CST 2011: 连接池access创建一个新的连接
+Sat Nov 26 23:39:23 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sat Nov 26 23:39:23 CST 2011: 成功创建连接池access
+Sat Nov 26 23:39:24 CST 2011: 连接池access创建一个新的连接
+Sat Nov 26 23:40:00 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sat Nov 26 23:40:00 CST 2011: 成功创建连接池access
+Sat Nov 26 23:40:00 CST 2011: 连接池access创建一个新的连接
+Sat Nov 26 23:40:49 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sat Nov 26 23:40:49 CST 2011: 成功创建连接池access
+Sat Nov 26 23:40:50 CST 2011: 连接池access创建一个新的连接
+Sat Nov 26 23:42:03 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sat Nov 26 23:42:03 CST 2011: 成功创建连接池access
+Sat Nov 26 23:42:03 CST 2011: 连接池access创建一个新的连接
+Sat Nov 26 23:51:46 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sat Nov 26 23:51:46 CST 2011: 成功创建连接池access
+Sat Nov 26 23:51:46 CST 2011: 连接池access创建一个新的连接
+Sun Nov 27 01:24:20 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sun Nov 27 01:24:20 CST 2011: 成功创建连接池access
+Sun Nov 27 01:24:21 CST 2011: 连接池access创建一个新的连接
+Sun Nov 27 01:24:21 CST 2011: 连接池access创建一个新的连接
+Sun Nov 27 01:59:14 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sun Nov 27 01:59:14 CST 2011: 成功创建连接池access
+Sun Nov 27 01:59:15 CST 2011: 连接池access创建一个新的连接
+Sun Nov 27 02:06:24 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sun Nov 27 02:06:24 CST 2011: 成功创建连接池access
+Sun Nov 27 02:06:24 CST 2011: 连接池access创建一个新的连接
+Sun Nov 27 02:14:10 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sun Nov 27 02:14:10 CST 2011: 成功创建连接池access
+Sun Nov 27 02:14:11 CST 2011: 连接池access创建一个新的连接
+Sun Nov 27 02:23:06 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sun Nov 27 02:23:06 CST 2011: 成功创建连接池access
+Sun Nov 27 02:23:06 CST 2011: 连接池access创建一个新的连接
+Sun Nov 27 02:28:16 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sun Nov 27 02:28:16 CST 2011: 成功创建连接池access
+Sun Nov 27 02:28:17 CST 2011: 连接池access创建一个新的连接
+Sun Nov 27 02:40:36 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sun Nov 27 02:40:36 CST 2011: 成功创建连接池access
+Sun Nov 27 02:40:36 CST 2011: 连接池access创建一个新的连接
+Sun Nov 27 02:50:30 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sun Nov 27 02:50:30 CST 2011: 成功创建连接池access
+Sun Nov 27 02:50:30 CST 2011: 连接池access创建一个新的连接
+Sun Nov 27 03:34:47 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sun Nov 27 03:34:47 CST 2011: 成功创建连接池access
+Sun Nov 27 03:34:47 CST 2011: 连接池access创建一个新的连接
+Sun Nov 27 03:36:49 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sun Nov 27 03:36:49 CST 2011: 成功创建连接池access
+Sun Nov 27 03:36:49 CST 2011: 连接池access创建一个新的连接
+Sun Nov 27 03:39:03 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sun Nov 27 03:39:03 CST 2011: 成功创建连接池access
+Sun Nov 27 03:39:03 CST 2011: 连接池access创建一个新的连接
+Sun Nov 27 03:40:20 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sun Nov 27 03:40:20 CST 2011: 成功创建连接池access
+Sun Nov 27 03:40:21 CST 2011: 连接池access创建一个新的连接
+Sun Nov 27 03:45:49 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sun Nov 27 03:45:49 CST 2011: 成功创建连接池access
+Sun Nov 27 03:45:49 CST 2011: 连接池access创建一个新的连接
+Sun Nov 27 03:47:11 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sun Nov 27 03:47:11 CST 2011: 成功创建连接池access
+Sun Nov 27 03:47:11 CST 2011: 连接池access创建一个新的连接
+Sun Nov 27 03:53:09 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sun Nov 27 03:53:09 CST 2011: 成功创建连接池access
+Sun Nov 27 03:53:10 CST 2011: 连接池access创建一个新的连接
+Sun Nov 27 10:23:16 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sun Nov 27 10:23:16 CST 2011: 成功创建连接池access
+Sun Nov 27 10:23:21 CST 2011: 连接池access创建一个新的连接
+Sun Nov 27 10:39:01 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sun Nov 27 10:39:01 CST 2011: 成功创建连接池access
+Sun Nov 27 10:39:01 CST 2011: 连接池access创建一个新的连接
+Sun Nov 27 10:41:11 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sun Nov 27 10:41:11 CST 2011: 成功创建连接池access
+Sun Nov 27 10:41:11 CST 2011: 连接池access创建一个新的连接
+Sun Nov 27 10:41:53 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sun Nov 27 10:41:53 CST 2011: 成功创建连接池access
+Sun Nov 27 10:41:53 CST 2011: 连接池access创建一个新的连接
+Sun Nov 27 10:41:54 CST 2011: 连接池access创建一个新的连接
+Sun Nov 27 13:06:45 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sun Nov 27 13:06:45 CST 2011: 成功创建连接池access
+Sun Nov 27 13:06:46 CST 2011: 连接池access创建一个新的连接
+Sun Nov 27 13:53:12 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sun Nov 27 13:53:13 CST 2011: 成功创建连接池access
+Sun Nov 27 13:53:13 CST 2011: 连接池access创建一个新的连接
+Sun Nov 27 14:06:23 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sun Nov 27 14:06:23 CST 2011: 成功创建连接池access
+Sun Nov 27 14:06:23 CST 2011: 连接池access创建一个新的连接
+Sun Nov 27 14:06:46 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sun Nov 27 14:06:46 CST 2011: 成功创建连接池access
+Sun Nov 27 14:06:46 CST 2011: 连接池access创建一个新的连接
+Sun Nov 27 14:19:41 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sun Nov 27 14:19:41 CST 2011: 成功创建连接池access
+Sun Nov 27 14:19:41 CST 2011: 连接池access创建一个新的连接
+Sun Nov 27 14:29:06 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sun Nov 27 14:29:06 CST 2011: 成功创建连接池access
+Sun Nov 27 14:29:06 CST 2011: 连接池access创建一个新的连接
+Sun Nov 27 14:48:26 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sun Nov 27 14:48:26 CST 2011: 成功创建连接池access
+Sun Nov 27 14:48:27 CST 2011: 连接池access创建一个新的连接
+Sun Nov 27 15:23:52 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sun Nov 27 15:23:52 CST 2011: 成功创建连接池access
+Sun Nov 27 15:23:53 CST 2011: 连接池access创建一个新的连接
+Sun Nov 27 15:32:12 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sun Nov 27 15:32:12 CST 2011: 成功创建连接池access
+Sun Nov 27 15:32:13 CST 2011: 连接池access创建一个新的连接
+Sun Nov 27 15:33:26 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sun Nov 27 15:33:26 CST 2011: 成功创建连接池access
+Sun Nov 27 15:33:27 CST 2011: 连接池access创建一个新的连接
+Sun Nov 27 15:34:39 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sun Nov 27 15:34:39 CST 2011: 成功创建连接池access
+Sun Nov 27 15:34:40 CST 2011: 连接池access创建一个新的连接
+Sun Nov 27 15:40:12 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sun Nov 27 15:40:12 CST 2011: 成功创建连接池access
+Sun Nov 27 15:40:13 CST 2011: 连接池access创建一个新的连接
+Sun Nov 27 15:42:54 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sun Nov 27 15:42:54 CST 2011: 成功创建连接池access
+Sun Nov 27 15:42:54 CST 2011: 连接池access创建一个新的连接
+Sun Nov 27 15:45:03 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sun Nov 27 15:45:03 CST 2011: 成功创建连接池access
+Sun Nov 27 15:45:03 CST 2011: 连接池access创建一个新的连接
+Sun Nov 27 15:47:55 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sun Nov 27 15:47:55 CST 2011: 成功创建连接池access
+Sun Nov 27 15:47:56 CST 2011: 连接池access创建一个新的连接
+Sun Nov 27 15:49:40 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sun Nov 27 15:49:40 CST 2011: 成功创建连接池access
+Sun Nov 27 15:49:40 CST 2011: 连接池access创建一个新的连接
+Sun Nov 27 15:57:06 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sun Nov 27 15:57:06 CST 2011: 成功创建连接池access
+Sun Nov 27 15:57:07 CST 2011: 连接池access创建一个新的连接
+Sun Nov 27 16:14:29 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sun Nov 27 16:14:29 CST 2011: 成功创建连接池access
+Sun Nov 27 16:14:30 CST 2011: 连接池access创建一个新的连接
+Sun Nov 27 16:51:07 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sun Nov 27 16:51:07 CST 2011: 成功创建连接池access
+Sun Nov 27 16:51:08 CST 2011: 连接池access创建一个新的连接
+Sun Nov 27 16:56:02 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sun Nov 27 16:56:02 CST 2011: 成功创建连接池access
+Sun Nov 27 16:56:03 CST 2011: 连接池access创建一个新的连接
+Sun Nov 27 17:05:45 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sun Nov 27 17:05:45 CST 2011: 成功创建连接池access
+Sun Nov 27 17:05:46 CST 2011: 连接池access创建一个新的连接
+Sun Nov 27 17:10:23 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sun Nov 27 17:10:23 CST 2011: 成功创建连接池access
+Sun Nov 27 17:10:23 CST 2011: 连接池access创建一个新的连接
+Sun Nov 27 17:13:59 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sun Nov 27 17:13:59 CST 2011: 成功创建连接池access
+Sun Nov 27 17:14:00 CST 2011: 连接池access创建一个新的连接
+Sun Nov 27 17:16:48 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sun Nov 27 17:16:48 CST 2011: 成功创建连接池access
+Sun Nov 27 17:16:49 CST 2011: 连接池access创建一个新的连接
+Sun Nov 27 17:16:49 CST 2011: 连接池access创建一个新的连接
+Sun Nov 27 17:16:49 CST 2011: 连接池access创建一个新的连接
+Sun Nov 27 17:22:56 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sun Nov 27 17:22:56 CST 2011: 成功创建连接池access
+Sun Nov 27 17:22:56 CST 2011: 连接池access创建一个新的连接
+Sun Nov 27 17:24:41 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sun Nov 27 17:24:41 CST 2011: 成功创建连接池access
+Sun Nov 27 17:24:41 CST 2011: 连接池access创建一个新的连接
+Sun Nov 27 17:28:49 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sun Nov 27 17:28:49 CST 2011: 成功创建连接池access
+Sun Nov 27 17:28:49 CST 2011: 连接池access创建一个新的连接
+Sun Nov 27 17:30:34 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sun Nov 27 17:30:34 CST 2011: 成功创建连接池access
+Sun Nov 27 17:30:35 CST 2011: 连接池access创建一个新的连接
+Sun Nov 27 17:32:49 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sun Nov 27 17:32:49 CST 2011: 成功创建连接池access
+Sun Nov 27 17:32:49 CST 2011: 连接池access创建一个新的连接
+Sun Nov 27 18:14:43 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sun Nov 27 18:14:44 CST 2011: 成功创建连接池access
+Sun Nov 27 18:14:48 CST 2011: 连接池access创建一个新的连接
+Sun Nov 27 18:15:02 CST 2011: 连接池access创建一个新的连接
+Sun Nov 27 19:43:01 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sun Nov 27 19:43:01 CST 2011: 成功创建连接池access
+Sun Nov 27 19:43:03 CST 2011: 连接池access创建一个新的连接
+Sun Nov 27 20:09:48 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sun Nov 27 20:09:48 CST 2011: 成功创建连接池access
+Sun Nov 27 20:09:52 CST 2011: 连接池access创建一个新的连接
+Sun Nov 27 20:17:34 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sun Nov 27 20:17:34 CST 2011: 成功创建连接池access
+Sun Nov 27 20:17:34 CST 2011: 连接池access创建一个新的连接
+Sun Nov 27 20:18:39 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sun Nov 27 20:18:39 CST 2011: 成功创建连接池access
+Sun Nov 27 20:18:40 CST 2011: 连接池access创建一个新的连接
+Sun Nov 27 20:19:16 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sun Nov 27 20:19:16 CST 2011: 成功创建连接池access
+Sun Nov 27 20:19:16 CST 2011: 连接池access创建一个新的连接
+Sun Nov 27 20:36:24 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sun Nov 27 20:36:24 CST 2011: 成功创建连接池access
+Sun Nov 27 20:36:24 CST 2011: 连接池access创建一个新的连接
+Sun Nov 27 20:43:30 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sun Nov 27 20:43:30 CST 2011: 成功创建连接池access
+Sun Nov 27 20:43:30 CST 2011: 连接池access创建一个新的连接
+Sun Nov 27 20:47:21 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sun Nov 27 20:47:21 CST 2011: 成功创建连接池access
+Sun Nov 27 20:47:21 CST 2011: 连接池access创建一个新的连接
+Sun Nov 27 21:38:32 CST 2011: 连接池access创建一个新的连接
+Sun Nov 27 23:00:29 CST 2011: 连接池access创建一个新的连接
+Sun Nov 27 23:00:29 CST 2011: 连接池access创建一个新的连接
+Sun Nov 27 23:30:05 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Sun Nov 27 23:30:05 CST 2011: 成功创建连接池access
+Sun Nov 27 23:30:06 CST 2011: 连接池access创建一个新的连接
+Mon Nov 28 00:09:14 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Mon Nov 28 00:09:14 CST 2011: 成功创建连接池access
+Mon Nov 28 00:09:16 CST 2011: 连接池access创建一个新的连接
+Mon Nov 28 00:12:07 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Mon Nov 28 00:12:07 CST 2011: 成功创建连接池access
+Mon Nov 28 00:12:07 CST 2011: 连接池access创建一个新的连接
+Mon Nov 28 00:17:47 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Mon Nov 28 00:17:47 CST 2011: 成功创建连接池access
+Mon Nov 28 00:17:47 CST 2011: 连接池access创建一个新的连接
+Mon Nov 28 00:18:28 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Mon Nov 28 00:18:28 CST 2011: 成功创建连接池access
+Mon Nov 28 00:18:29 CST 2011: 连接池access创建一个新的连接
+Mon Nov 28 00:20:32 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Mon Nov 28 00:20:32 CST 2011: 成功创建连接池access
+Mon Nov 28 00:20:32 CST 2011: 连接池access创建一个新的连接
+Mon Nov 28 00:24:14 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Mon Nov 28 00:24:14 CST 2011: 成功创建连接池access
+Mon Nov 28 00:24:14 CST 2011: 连接池access创建一个新的连接
+Mon Nov 28 00:25:51 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Mon Nov 28 00:25:51 CST 2011: 成功创建连接池access
+Mon Nov 28 00:25:51 CST 2011: 连接池access创建一个新的连接
+Mon Nov 28 00:25:57 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Mon Nov 28 00:25:57 CST 2011: 成功创建连接池access
+Mon Nov 28 00:25:57 CST 2011: 连接池access创建一个新的连接
+Mon Nov 28 00:27:48 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Mon Nov 28 00:27:48 CST 2011: 成功创建连接池access
+Mon Nov 28 00:27:50 CST 2011: 连接池access创建一个新的连接
+Mon Nov 28 00:29:17 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Mon Nov 28 00:29:17 CST 2011: 成功创建连接池access
+Mon Nov 28 00:29:17 CST 2011: 连接池access创建一个新的连接
+Mon Nov 28 00:30:30 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Mon Nov 28 00:30:31 CST 2011: 成功创建连接池access
+Mon Nov 28 00:30:31 CST 2011: 连接池access创建一个新的连接
+Mon Nov 28 00:30:39 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Mon Nov 28 00:30:39 CST 2011: 成功创建连接池access
+Mon Nov 28 00:30:40 CST 2011: 连接池access创建一个新的连接
+Mon Nov 28 00:31:49 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Mon Nov 28 00:31:49 CST 2011: 成功创建连接池access
+Mon Nov 28 00:31:50 CST 2011: 连接池access创建一个新的连接
+Mon Nov 28 00:33:15 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Mon Nov 28 00:33:15 CST 2011: 成功创建连接池access
+Mon Nov 28 00:33:15 CST 2011: 连接池access创建一个新的连接
+Mon Nov 28 00:33:17 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Mon Nov 28 00:33:17 CST 2011: 成功创建连接池access
+Mon Nov 28 00:33:18 CST 2011: 连接池access创建一个新的连接
+Mon Nov 28 00:35:47 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Mon Nov 28 00:35:47 CST 2011: 成功创建连接池access
+Mon Nov 28 00:35:47 CST 2011: 连接池access创建一个新的连接
+Mon Nov 28 00:37:49 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Mon Nov 28 00:37:49 CST 2011: 成功创建连接池access
+Mon Nov 28 00:37:50 CST 2011: 连接池access创建一个新的连接
+Mon Nov 28 00:39:14 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Mon Nov 28 00:39:14 CST 2011: 成功创建连接池access
+Mon Nov 28 00:39:14 CST 2011: 连接池access创建一个新的连接
+Mon Nov 28 00:40:14 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Mon Nov 28 00:40:14 CST 2011: 成功创建连接池access
+Mon Nov 28 00:40:15 CST 2011: 连接池access创建一个新的连接
+Mon Nov 28 00:41:24 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Mon Nov 28 00:41:24 CST 2011: 成功创建连接池access
+Mon Nov 28 00:41:24 CST 2011: 连接池access创建一个新的连接
+Mon Nov 28 00:41:32 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Mon Nov 28 00:41:32 CST 2011: 成功创建连接池access
+Mon Nov 28 00:41:32 CST 2011: 连接池access创建一个新的连接
+Mon Nov 28 00:46:51 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Mon Nov 28 00:46:51 CST 2011: 成功创建连接池access
+Mon Nov 28 00:46:51 CST 2011: 连接池access创建一个新的连接
+Mon Nov 28 00:51:57 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Mon Nov 28 00:51:57 CST 2011: 成功创建连接池access
+Mon Nov 28 00:51:57 CST 2011: 连接池access创建一个新的连接
+Mon Nov 28 00:54:02 CST 2011: 连接池access创建一个新的连接
+Mon Nov 28 00:56:34 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Mon Nov 28 00:56:34 CST 2011: 成功创建连接池access
+Mon Nov 28 00:56:34 CST 2011: 连接池access创建一个新的连接
+Mon Nov 28 00:58:50 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Mon Nov 28 00:58:50 CST 2011: 成功创建连接池access
+Mon Nov 28 00:58:51 CST 2011: 连接池access创建一个新的连接
+Mon Nov 28 01:00:40 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Mon Nov 28 01:00:40 CST 2011: 成功创建连接池access
+Mon Nov 28 01:00:41 CST 2011: 连接池access创建一个新的连接
+Mon Nov 28 02:21:36 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Mon Nov 28 02:21:36 CST 2011: 成功创建连接池access
+Mon Nov 28 02:21:36 CST 2011: 连接池access创建一个新的连接
+Mon Nov 28 02:23:32 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Mon Nov 28 02:23:32 CST 2011: 成功创建连接池access
+Mon Nov 28 02:23:32 CST 2011: 连接池access创建一个新的连接
+Mon Nov 28 02:25:21 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Mon Nov 28 02:25:21 CST 2011: 成功创建连接池access
+Mon Nov 28 02:25:21 CST 2011: 连接池access创建一个新的连接
+Mon Nov 28 02:27:49 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Mon Nov 28 02:27:49 CST 2011: 成功创建连接池access
+Mon Nov 28 02:27:50 CST 2011: 连接池access创建一个新的连接
+Mon Nov 28 02:42:14 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Mon Nov 28 02:42:14 CST 2011: 成功创建连接池access
+Mon Nov 28 02:42:15 CST 2011: 连接池access创建一个新的连接
+Mon Nov 28 02:47:02 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Mon Nov 28 02:47:02 CST 2011: 成功创建连接池access
+Mon Nov 28 02:47:02 CST 2011: 连接池access创建一个新的连接
+Mon Nov 28 02:56:07 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Mon Nov 28 02:56:07 CST 2011: 成功创建连接池access
+Mon Nov 28 02:56:07 CST 2011: 连接池access创建一个新的连接
+Mon Nov 28 02:57:04 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Mon Nov 28 02:57:04 CST 2011: 成功创建连接池access
+Mon Nov 28 02:57:05 CST 2011: 连接池access创建一个新的连接
+Mon Nov 28 03:02:38 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Mon Nov 28 03:02:38 CST 2011: 成功创建连接池access
+Mon Nov 28 03:02:38 CST 2011: 连接池access创建一个新的连接
+Mon Nov 28 03:04:10 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Mon Nov 28 03:04:10 CST 2011: 成功创建连接池access
+Mon Nov 28 03:04:10 CST 2011: 连接池access创建一个新的连接
+Mon Nov 28 03:05:23 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Mon Nov 28 03:05:23 CST 2011: 成功创建连接池access
+Mon Nov 28 03:05:23 CST 2011: 连接池access创建一个新的连接
+Mon Nov 28 03:06:37 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Mon Nov 28 03:06:37 CST 2011: 成功创建连接池access
+Mon Nov 28 03:06:37 CST 2011: 连接池access创建一个新的连接
+Mon Nov 28 03:11:07 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Mon Nov 28 03:11:07 CST 2011: 成功创建连接池access
+Mon Nov 28 03:11:07 CST 2011: 连接池access创建一个新的连接
+Mon Nov 28 03:16:11 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Mon Nov 28 03:16:11 CST 2011: 成功创建连接池access
+Mon Nov 28 03:16:12 CST 2011: 连接池access创建一个新的连接
+Mon Nov 28 03:26:25 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Mon Nov 28 03:26:25 CST 2011: 成功创建连接池access
+Mon Nov 28 03:26:25 CST 2011: 连接池access创建一个新的连接
+Mon Nov 28 03:28:58 CST 2011: 成功注册JDBC驱动程序net.sourceforge.jtds.jdbc.Driver
+Mon Nov 28 03:28:58 CST 2011: 成功创建连接池access
+Mon Nov 28 03:28:58 CST 2011: 连接池access创建一个新的连接
